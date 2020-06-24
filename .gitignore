@@ -1,0 +1,4 @@
+checkpoints/
+outputs/
+wanddb/
+__pycache__/
