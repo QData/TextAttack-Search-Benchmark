@@ -1,5 +1,5 @@
 import textattack
-from textattack.constraints.pre_transformation import RepeatModification, StopwordModification, MaxWordIndexModification
+from textattack.constraints.pre_transformation import RepeatModification, StopwordModification, MaxWordIndexModification, InputColumnModification
 from textattack.constraints.grammaticality import PartOfSpeech
 from textattack.constraints.semantics import WordEmbeddingDistance, BERTScore
 
@@ -16,6 +16,7 @@ CONSTRAINTS = [
     RepeatModification(),
     StopwordModification(stopwords=STOPWORDS),
     MaxWordIndexModification(max_length = MAX_LENGTH),
+    InputColumnModification(["premise", "hypothesis"], {"premise"}),
     WordEmbeddingDistance(min_cos_sim=COSINE_SIM),
     BERTScore(min_bert_score=BERT_SCORE_SIM),
     PartOfSpeech(tagger_type=TAGGER_TYPE, allow_verb_noun_swap=ALLOW_VERB_NOUN_SWAP)
@@ -25,7 +26,7 @@ TRANSFORMATION = textattack.transformations.WordSwapEmbedding(max_candidates=50)
 
 def Attack(model):
     goal_function = textattack.goal_functions.UntargetedClassification(model)
-    search_method = textattack.search_methods.MetropolisHastingsSampling()
+    search_method = textattack.search_methods.MetropolisHastingsSampling(max_iter=50, pop_size=1)
     transformation = TRANSFORMATION
     constraints = CONSTRAINTS
     return textattack.shared.Attack(

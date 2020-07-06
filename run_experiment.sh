@@ -5,7 +5,7 @@ repo_dir=$(dirname `realpath $0`)
 checkpoint_dir=$repo_dir/checkpoints
 output_dir=$repo_dir/outputs
 checkpoint_interval=100
-num_examples=1000
+num_examples=500
 
 # Model we want to attack
 model=$1
