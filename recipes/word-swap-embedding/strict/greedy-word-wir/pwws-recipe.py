@@ -10,7 +10,7 @@ from constraint import CONSTRAINTS
 
 def Attack(model):
     goal_function = textattack.goal_functions.UntargetedClassification(model)
-    search_method = textattack.search_methods.GreedyWordSwapWIR(wir_method="pwws")
+    search_method = textattack.search_methods.GreedyWordSwapWIR(wir_method="weighted-saliency")
     transformation = TRANSFORMATION
     constraints = CONSTRAINTS
     return textattack.shared.Attack(

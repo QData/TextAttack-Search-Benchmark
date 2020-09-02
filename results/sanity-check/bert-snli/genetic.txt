@@ -1,0 +1,1688 @@
+--------------------------------------------- Result 1 ---------------------------------------------
+[[0 (61%)]] --> [[[SKIPPED]]]
+
+[[[[Premise]]]]: This church choir sings to the masses as they sing joyous songs from the book at a church.
+[[[[Hypothesis]]]]: The church has cracks in the ceiling.
+--------------------------------------------- Result 2 ---------------------------------------------
+[[2 (99%)]] --> [[0 (73%)]]
+
+[[[[Premise]]]]: A woman with a green headscarf, blue shirt and a very big grin.
+[[[[Hypothesis]]]]: The woman is [[young]].
+
+[[[[Premise]]]]: A woman with a green headscarf, blue shirt and a very big grin.
+[[[[Hypothesis]]]]: The woman is [[baby]].
+--------------------------------------------- Result 3 ---------------------------------------------
+[[2 (53%)]] --> [[[SKIPPED]]]
+
+[[[[Premise]]]]: A woman with a green headscarf, blue shirt and a very big grin.
+[[[[Hypothesis]]]]: The woman is very happy.
+--------------------------------------------- Result 4 ---------------------------------------------
+[[1 (97%)]] --> [[0 (100%)]]
+
+[[[[Premise]]]]: This church choir sings to the masses as they sing joyous songs from the book at a church.
+[[[[Hypothesis]]]]: The [[church]] is filled with song.
+
+[[[[Premise]]]]: This church choir sings to the masses as they sing joyous songs from the book at a church.
+[[[[Hypothesis]]]]: The [[ymca]] is filled with song.
+--------------------------------------------- Result 5 ---------------------------------------------
+[[0 (92%)]] --> [[1 (55%)]]
+
+[[[[Premise]]]]: A woman with a green headscarf, blue shirt and a very big grin.
+[[[[Hypothesis]]]]: The woman has been [[shot]].
+
+[[[[Premise]]]]: A woman with a green headscarf, blue shirt and a very big grin.
+[[[[Hypothesis]]]]: The woman has been [[photographed]].
+--------------------------------------------- Result 6 ---------------------------------------------
+[[1 (99%)]] --> [[0 (100%)]]
+
+[[[[Premise]]]]: An old man with a package poses in front of an advertisement.
+[[[[Hypothesis]]]]: A [[man]] poses in front of an ad.
+
+[[[[Premise]]]]: An old man with a package poses in front of an advertisement.
+[[[[Hypothesis]]]]: A [[ape]] poses in front of an ad.
+--------------------------------------------- Result 7 ---------------------------------------------
+[[2 (100%)]] --> [[0 (100%)]]
+
+[[[[Premise]]]]: An old man with a package poses in front of an advertisement.
+[[[[Hypothesis]]]]: A [[man]] poses in front of an ad for beer.
+
+[[[[Premise]]]]: An old man with a package poses in front of an advertisement.
+[[[[Hypothesis]]]]: A [[ape]] poses in front of an ad for beer.
+--------------------------------------------- Result 8 ---------------------------------------------
+[[0 (65%)]] --> [[1 (93%)]]
+
+[[[[Premise]]]]: An old man with a package poses in front of an advertisement.
+[[[[Hypothesis]]]]: A man [[walks]] by an ad.
+
+[[[[Premise]]]]: An old man with a package poses in front of an advertisement.
+[[[[Hypothesis]]]]: A man [[accompanies]] by an ad.
+--------------------------------------------- Result 9 ---------------------------------------------
+[[2 (91%)]] --> [[0 (100%)]]
+
+[[[[Premise]]]]: A statue at a museum that no seems to be looking at.
+[[[[Hypothesis]]]]: The statue is offensive and people are [[mad]] that it is on display.
+
+[[[[Premise]]]]: A statue at a museum that no seems to be looking at.
+[[[[Hypothesis]]]]: The statue is offensive and people are [[ferocious]] that it is on display.
+--------------------------------------------- Result 10 ---------------------------------------------
+[[0 (62%)]] --> [[2 (60%)]]
+
+[[[[Premise]]]]: A statue at a museum that no seems to be looking at.
+[[[[Hypothesis]]]]: Tons of [[people]] are gathered around the statue.
+
+[[[[Premise]]]]: A statue at a museum that no seems to be looking at.
+[[[[Hypothesis]]]]: Tons of [[folks]] are gathered around the statue.
+--------------------------------------------- Result 11 ---------------------------------------------
+[[2 (99%)]] --> [[[SKIPPED]]]
+
+[[[[Premise]]]]: A land rover is being driven across a river.
+[[[[Hypothesis]]]]: A Land Rover is splashing water as it crosses a river.
+--------------------------------------------- Result 12 ---------------------------------------------
+[[1 (98%)]] --> [[0 (100%)]]
+
+[[[[Premise]]]]: A land rover is being driven across a river.
+[[[[Hypothesis]]]]: A [[vehicle]] is crossing a river.
+
+[[[[Premise]]]]: A land rover is being driven across a river.
+[[[[Hypothesis]]]]: A [[tanker]] is crossing a river.
+--------------------------------------------- Result 13 ---------------------------------------------
+[[0 (99%)]] --> [[1 (99%)]]
+
+[[[[Premise]]]]: A land rover is being driven across a river.
+[[[[Hypothesis]]]]: A [[sedan]] is [[stuck]] in the [[middle]] of a river.
+
+[[[[Premise]]]]: A land rover is being driven across a river.
+[[[[Hypothesis]]]]: A [[automobile]] is [[adhered]] in the [[medium]] of a river.
+--------------------------------------------- Result 14 ---------------------------------------------
+[[0 (100%)]] --> [[1 (97%)]]
+
+[[[[Premise]]]]: A man playing an electric guitar on stage.
+[[[[Hypothesis]]]]: A man [[playing]] [[banjo]] on the [[floor]].
+
+[[[[Premise]]]]: A man playing an electric guitar on stage.
+[[[[Hypothesis]]]]: A man [[featureing]] [[instrument]] on the [[transposition]].
+--------------------------------------------- Result 15 ---------------------------------------------
+[[1 (97%)]] --> [[0 (100%)]]
+
+[[[[Premise]]]]: A man playing an electric guitar on stage.
+[[[[Hypothesis]]]]: A man playing [[guitar]] on stage.
+
+[[[[Premise]]]]: A man playing an electric guitar on stage.
+[[[[Hypothesis]]]]: A man playing [[harp]] on stage.
+--------------------------------------------- Result 16 ---------------------------------------------
+[[2 (100%)]] --> [[0 (100%)]]
+
+[[[[Premise]]]]: A man playing an electric guitar on stage.
+[[[[Hypothesis]]]]: A [[man]] is performing for cash.
+
+[[[[Premise]]]]: A man playing an electric guitar on stage.
+[[[[Hypothesis]]]]: A [[ape]] is performing for cash.
+--------------------------------------------- Result 17 ---------------------------------------------
+[[1 (93%)]] --> [[0 (100%)]]
+
+[[[[Premise]]]]: A blond-haired doctor and her African american assistant looking threw new medical manuals.
+[[[[Hypothesis]]]]: A doctor is looking at a [[book]]
+
+[[[[Premise]]]]: A blond-haired doctor and her African american assistant looking threw new medical manuals.
+[[[[Hypothesis]]]]: A doctor is looking at a [[pocketbook]]
+--------------------------------------------- Result 18 ---------------------------------------------
+[[0 (100%)]] --> [[2 (58%)]]
+
+[[[[Premise]]]]: A blond-haired doctor and her African american assistant looking threw new medical manuals.
+[[[[Hypothesis]]]]: A man is [[eating]] pb and j
+
+[[[[Premise]]]]: A blond-haired doctor and her African american assistant looking threw new medical manuals.
+[[[[Hypothesis]]]]: A man is [[corroding]] pb and j
+--------------------------------------------- Result 19 ---------------------------------------------
+[[1 (88%)]] --> [[[SKIPPED]]]
+
+[[[[Premise]]]]: A blond-haired doctor and her African american assistant looking threw new medical manuals.
+[[[[Hypothesis]]]]: A doctor is studying
+--------------------------------------------- Result 20 ---------------------------------------------
+[[1 (98%)]] --> [[[FAILED]]]
+
+[[[[Premise]]]]: A statue at a museum that no seems to be looking at.
+[[[[Hypothesis]]]]: There is a statue that not many people seem to be interested in.
+--------------------------------------------- Result 21 ---------------------------------------------
+[[1 (98%)]] --> [[2 (99%)]]
+
+[[[[Premise]]]]: One tan girl with a wool hat is running and leaning over an object, while another person in a wool hat is sitting on the ground.
+[[[[Hypothesis]]]]: A tan girl runs leans over an [[object]]
+
+[[[[Premise]]]]: One tan girl with a wool hat is running and leaning over an object, while another person in a wool hat is sitting on the ground.
+[[[[Hypothesis]]]]: A tan girl runs leans over an [[numeral]]
+--------------------------------------------- Result 22 ---------------------------------------------
+[[0 (98%)]] --> [[[SKIPPED]]]
+
+[[[[Premise]]]]: One tan girl with a wool hat is running and leaning over an object, while another person in a wool hat is sitting on the ground.
+[[[[Hypothesis]]]]: A man watches his daughter leap
+--------------------------------------------- Result 23 ---------------------------------------------
+[[2 (100%)]] --> [[0 (100%)]]
+
+[[[[Premise]]]]: A young family enjoys feeling ocean waves lap at their feet.
+[[[[Hypothesis]]]]: A young man and woman [[take]] their child to the beach for the first time.
+
+[[[[Premise]]]]: A young family enjoys feeling ocean waves lap at their feet.
+[[[[Hypothesis]]]]: A young man and woman [[eat]] their child to the beach for the first time.
+--------------------------------------------- Result 24 ---------------------------------------------
+[[0 (100%)]] --> [[[FAILED]]]
+
+[[[[Premise]]]]: This church choir sings to the masses as they sing joyous songs from the book at a church.
+[[[[Hypothesis]]]]: A choir singing at a baseball game.
+--------------------------------------------- Result 25 ---------------------------------------------
+[[1 (94%)]] --> [[0 (100%)]]
+
+[[[[Premise]]]]: A young family enjoys feeling ocean waves lap at their feet.
+[[[[Hypothesis]]]]: A family is at the [[beach]].
+
+[[[[Premise]]]]: A young family enjoys feeling ocean waves lap at their feet.
+[[[[Hypothesis]]]]: A family is at the [[bank]].
+--------------------------------------------- Result 26 ---------------------------------------------
+[[1 (94%)]] --> [[0 (99%)]]
+
+[[[[Premise]]]]: A couple walk hand in hand down a street.
+[[[[Hypothesis]]]]: A [[couple]] is walking together.
+
+[[[[Premise]]]]: A couple walk hand in hand down a street.
+[[[[Hypothesis]]]]: A [[string]] is walking together.
+--------------------------------------------- Result 27 ---------------------------------------------
+[[2 (100%)]] --> [[0 (99%)]]
+
+[[[[Premise]]]]: A couple walk hand in hand down a street.
+[[[[Hypothesis]]]]: The [[couple]] is married.
+
+[[[[Premise]]]]: A couple walk hand in hand down a street.
+[[[[Hypothesis]]]]: The [[glue]] is married.
+--------------------------------------------- Result 28 ---------------------------------------------
+[[0 (100%)]] --> [[1 (67%)]]
+
+[[[[Premise]]]]: A couple walk hand in hand down a street.
+[[[[Hypothesis]]]]: A [[couple]] is [[sitting]] on a [[bench]].
+
+[[[[Premise]]]]: A couple walk hand in hand down a street.
+[[[[Hypothesis]]]]: A [[linkage]] is [[rideing]] on a [[pew]].
+--------------------------------------------- Result 29 ---------------------------------------------
+[[0 (100%)]] --> [[[FAILED]]]
+
+[[[[Premise]]]]: One tan girl with a wool hat is running and leaning over an object, while another person in a wool hat is sitting on the ground.
+[[[[Hypothesis]]]]: A boy runs into a wall
+--------------------------------------------- Result 30 ---------------------------------------------
+[[1 (74%)]] --> [[2 (99%)]]
+
+[[[[Premise]]]]: 3 young man in hoods standing in the middle of a quiet street facing the camera.
+[[[[Hypothesis]]]]: Three hood wearing people pose for a [[picture]].
+
+[[[[Premise]]]]: 3 young man in hoods standing in the middle of a quiet street facing the camera.
+[[[[Hypothesis]]]]: Three hood wearing people pose for a [[foundation]].
+--------------------------------------------- Result 31 ---------------------------------------------
+[[1 (96%)]] --> [[0 (99%)]]
+
+[[[[Premise]]]]: 3 young man in hoods standing in the middle of a quiet street facing the camera.
+[[[[Hypothesis]]]]: Three hood wearing people stand in a [[street]].
+
+[[[[Premise]]]]: 3 young man in hoods standing in the middle of a quiet street facing the camera.
+[[[[Hypothesis]]]]: Three hood wearing people stand in a [[slide]].
+--------------------------------------------- Result 32 ---------------------------------------------
+[[1 (98%)]] --> [[0 (92%)]]
+
+[[[[Premise]]]]: A man reads the paper in a bar with green lighting.
+[[[[Hypothesis]]]]: The [[man]] is inside.
+
+[[[[Premise]]]]: A man reads the paper in a bar with green lighting.
+[[[[Hypothesis]]]]: The [[guerrilla]] is inside.
+--------------------------------------------- Result 33 ---------------------------------------------
+[[2 (100%)]] --> [[0 (96%)]]
+
+[[[[Premise]]]]: A man reads the paper in a bar with green lighting.
+[[[[Hypothesis]]]]: The [[man]] is reading the sportspage.
+
+[[[[Premise]]]]: A man reads the paper in a bar with green lighting.
+[[[[Hypothesis]]]]: The [[ape]] is reading the sportspage.
+--------------------------------------------- Result 34 ---------------------------------------------
+[[0 (99%)]] --> [[[FAILED]]]
+
+[[[[Premise]]]]: A young family enjoys feeling ocean waves lap at their feet.
+[[[[Hypothesis]]]]: A family is out at a restaurant.
+--------------------------------------------- Result 35 ---------------------------------------------
+[[2 (94%)]] --> [[0 (99%)]]
+
+[[[[Premise]]]]: Three firefighter come out of subway station.
+[[[[Hypothesis]]]]: Three firefighters [[putting]] out a fire inside of a subway station.
+
+[[[[Premise]]]]: Three firefighter come out of subway station.
+[[[[Hypothesis]]]]: Three firefighters [[reclining]] out a fire inside of a subway station.
+--------------------------------------------- Result 36 ---------------------------------------------
+[[1 (80%)]] --> [[2 (96%)]]
+
+[[[[Premise]]]]: Three firefighter come out of subway station.
+[[[[Hypothesis]]]]: Three firefighters coming up from a subway [[station]].
+
+[[[[Premise]]]]: Three firefighter come out of subway station.
+[[[[Hypothesis]]]]: Three firefighters coming up from a subway [[watchtower]].
+--------------------------------------------- Result 37 ---------------------------------------------
+[[0 (100%)]] --> [[2 (98%)]]
+
+[[[[Premise]]]]: A man reads the paper in a bar with green lighting.
+[[[[Hypothesis]]]]: The [[man]] is [[climbing]] a [[mountain]].
+
+[[[[Premise]]]]: A man reads the paper in a bar with green lighting.
+[[[[Hypothesis]]]]: The [[guidance]] is [[aggrandizing]] a [[hump]].
+--------------------------------------------- Result 38 ---------------------------------------------
+[[0 (100%)]] --> [[2 (94%)]]
+
+[[[[Premise]]]]: Three firefighter come out of subway station.
+[[[[Hypothesis]]]]: Three firefighters [[playing]] cards inside a fire station.
+
+[[[[Premise]]]]: Three firefighter come out of subway station.
+[[[[Hypothesis]]]]: Three firefighters [[reenacting]] cards inside a fire station.
+--------------------------------------------- Result 39 ---------------------------------------------
+[[1 (99%)]] --> [[0 (99%)]]
+
+[[[[Premise]]]]: A person wearing a straw hat, standing outside working a steel apparatus with a pile of coconuts on the ground.
+[[[[Hypothesis]]]]: A person is near a pile of [[coconuts]].
+
+[[[[Premise]]]]: A person wearing a straw hat, standing outside working a steel apparatus with a pile of coconuts on the ground.
+[[[[Hypothesis]]]]: A person is near a pile of [[blueberries]].
+--------------------------------------------- Result 40 ---------------------------------------------
+[[2 (99%)]] --> [[0 (100%)]]
+
+[[[[Premise]]]]: A person wearing a straw hat, standing outside working a steel apparatus with a pile of coconuts on the ground.
+[[[[Hypothesis]]]]: A person is selling [[coconuts]].
+
+[[[[Premise]]]]: A person wearing a straw hat, standing outside working a steel apparatus with a pile of coconuts on the ground.
+[[[[Hypothesis]]]]: A person is selling [[walnuts]].
+--------------------------------------------- Result 41 ---------------------------------------------
+[[0 (100%)]] --> [[1 (96%)]]
+
+[[[[Premise]]]]: A person wearing a straw hat, standing outside working a steel apparatus with a pile of coconuts on the ground.
+[[[[Hypothesis]]]]: A person is [[burning]] a straw hat.
+
+[[[[Premise]]]]: A person wearing a straw hat, standing outside working a steel apparatus with a pile of coconuts on the ground.
+[[[[Hypothesis]]]]: A person is [[charing]] a straw hat.
+--------------------------------------------- Result 42 ---------------------------------------------
+[[2 (81%)]] --> [[[SKIPPED]]]
+
+[[[[Premise]]]]: Male in a blue jacket decides to lay in the grass.
+[[[[Hypothesis]]]]: The guy wearing a blue jacket is laying on the green grass
+--------------------------------------------- Result 43 ---------------------------------------------
+[[0 (97%)]] --> [[2 (68%)]]
+
+[[[[Premise]]]]: Male in a blue jacket decides to lay in the grass.
+[[[[Hypothesis]]]]: The [[guy]] in yellow is rolling on the grass
+
+[[[[Premise]]]]: Male in a blue jacket decides to lay in the grass.
+[[[[Hypothesis]]]]: The [[brother]] in yellow is rolling on the grass
+--------------------------------------------- Result 44 ---------------------------------------------
+[[2 (95%)]] --> [[0 (99%)]]
+
+[[[[Premise]]]]: Male in a blue jacket decides to lay in the grass.
+[[[[Hypothesis]]]]: The guy wearing a blue jacket is laying on the green [[grass]] taking a nap.
+
+[[[[Premise]]]]: Male in a blue jacket decides to lay in the grass.
+[[[[Hypothesis]]]]: The guy wearing a blue jacket is laying on the green [[cactus]] taking a nap.
+--------------------------------------------- Result 45 ---------------------------------------------
+[[2 (65%)]] --> [[[SKIPPED]]]
+
+[[[[Premise]]]]: During calf roping a cowboy calls off his horse.
+[[[[Hypothesis]]]]: Cowboy falling off horse.
+--------------------------------------------- Result 46 ---------------------------------------------
+[[2 (57%)]] --> [[[SKIPPED]]]
+
+[[[[Premise]]]]: During calf roping a cowboy calls off his horse.
+[[[[Hypothesis]]]]: A man ropes a calf successfully.
+--------------------------------------------- Result 47 ---------------------------------------------
+[[2 (99%)]] --> [[0 (100%)]]
+
+[[[[Premise]]]]: During calf roping a cowboy calls off his horse.
+[[[[Hypothesis]]]]: A first time roper falls off his [[horse]].
+
+[[[[Premise]]]]: During calf roping a cowboy calls off his horse.
+[[[[Hypothesis]]]]: A first time roper falls off his [[donkey]].
+--------------------------------------------- Result 48 ---------------------------------------------
+[[2 (97%)]] --> [[0 (100%)]]
+
+[[[[Premise]]]]: A little boy in a gray and white striped sweater and tan pants is playing on a piece of playground equipment.
+[[[[Hypothesis]]]]: The boy is [[playing]] on the swings after school.
+
+[[[[Premise]]]]: A little boy in a gray and white striped sweater and tan pants is playing on a piece of playground equipment.
+[[[[Hypothesis]]]]: The boy is [[singing]] on the swings after school.
+--------------------------------------------- Result 49 ---------------------------------------------
+[[0 (100%)]] --> [[2 (89%)]]
+
+[[[[Premise]]]]: A little boy in a gray and white striped sweater and tan pants is playing on a piece of playground equipment.
+[[[[Hypothesis]]]]: The boy is [[sitting]] on the school bus on his [[way]] [[home]].
+
+[[[[Premise]]]]: A little boy in a gray and white striped sweater and tan pants is playing on a piece of playground equipment.
+[[[[Hypothesis]]]]: The boy is [[crouching]] on the school bus on his [[slide]] [[domestically]].
+--------------------------------------------- Result 50 ---------------------------------------------
+[[2 (100%)]] --> [[0 (89%)]]
+
+[[[[Premise]]]]: A woman wearing a ball cap squats down to touch the cracked earth.
+[[[[Hypothesis]]]]: An archeologist [[wearing]] a [[hat]] squats to examine the [[site]] for a [[dig]]
+
+[[[[Premise]]]]: A woman wearing a ball cap squats down to touch the cracked earth.
+[[[[Hypothesis]]]]: An archeologist [[donning]] a [[visor]] squats to examine the [[website]] for a [[chisel]]
+--------------------------------------------- Result 51 ---------------------------------------------
+[[1 (98%)]] --> [[0 (85%)]]
+
+[[[[Premise]]]]: A woman wearing a ball cap squats down to touch the cracked earth.
+[[[[Hypothesis]]]]: A squatting woman wearing a [[hat]] touching the ground.
+
+[[[[Premise]]]]: A woman wearing a ball cap squats down to touch the cracked earth.
+[[[[Hypothesis]]]]: A squatting woman wearing a [[sweatband]] touching the ground.
+--------------------------------------------- Result 52 ---------------------------------------------
+[[0 (95%)]] --> [[2 (99%)]]
+
+[[[[Premise]]]]: A woman wearing a ball cap squats down to touch the cracked earth.
+[[[[Hypothesis]]]]: A [[woman]] wearing a sun bonnet planting a garden.
+
+[[[[Premise]]]]: A woman wearing a ball cap squats down to touch the cracked earth.
+[[[[Hypothesis]]]]: A [[aunty]] wearing a sun bonnet planting a garden.
+--------------------------------------------- Result 53 ---------------------------------------------
+[[0 (95%)]] --> [[[SKIPPED]]]
+
+[[[[Premise]]]]: Two children re laying on a rug with some wooden bricks laid out in a square between them.
+[[[[Hypothesis]]]]: Two children are building a brick furnace.
+--------------------------------------------- Result 54 ---------------------------------------------
+[[0 (100%)]] --> [[2 (99%)]]
+
+[[[[Premise]]]]: Two children re laying on a rug with some wooden bricks laid out in a square between them.
+[[[[Hypothesis]]]]: Two [[children]] are [[playing]] [[catch]] at a park.
+
+[[[[Premise]]]]: Two children re laying on a rug with some wooden bricks laid out in a square between them.
+[[[[Hypothesis]]]]: Two [[grandsons]] are [[reenacting]] [[fascination]] at a park.
+--------------------------------------------- Result 55 ---------------------------------------------
+[[1 (99%)]] --> [[0 (98%)]]
+
+[[[[Premise]]]]: Two children re laying on a rug with some wooden bricks laid out in a square between them.
+[[[[Hypothesis]]]]: Two [[children]] are on a rug.
+
+[[[[Premise]]]]: Two children re laying on a rug with some wooden bricks laid out in a square between them.
+[[[[Hypothesis]]]]: Two [[teens]] are on a rug.
+--------------------------------------------- Result 56 ---------------------------------------------
+[[1 (96%)]] --> [[2 (99%)]]
+
+[[[[Premise]]]]: A man standing in front of a building on the phone as two men to the side pain on the side.
+[[[[Hypothesis]]]]: a [[guy]] near a building stands by two other men
+
+[[[[Premise]]]]: A man standing in front of a building on the phone as two men to the side pain on the side.
+[[[[Hypothesis]]]]: a [[brother]] near a building stands by two other men
+--------------------------------------------- Result 57 ---------------------------------------------
+[[0 (100%)]] --> [[[FAILED]]]
+
+[[[[Premise]]]]: 3 young man in hoods standing in the middle of a quiet street facing the camera.
+[[[[Hypothesis]]]]: Three people sit by a busy street bareheaded.
+--------------------------------------------- Result 58 ---------------------------------------------
+[[2 (87%)]] --> [[0 (100%)]]
+
+[[[[Premise]]]]: A man standing in front of a building on the phone as two men to the side pain on the side.
+[[[[Hypothesis]]]]: a busy [[man]] stands with bodyguards
+
+[[[[Premise]]]]: A man standing in front of a building on the phone as two men to the side pain on the side.
+[[[[Hypothesis]]]]: a busy [[knight]] stands with bodyguards
+--------------------------------------------- Result 59 ---------------------------------------------
+[[1 (99%)]] --> [[0 (100%)]]
+
+[[[[Premise]]]]: The two young girls are dressed as fairies, and are playing in the leaves outdoors.
+[[[[Hypothesis]]]]: Girls are [[playing]] outdoors.
+
+[[[[Premise]]]]: The two young girls are dressed as fairies, and are playing in the leaves outdoors.
+[[[[Hypothesis]]]]: Girls are [[drilling]] outdoors.
+--------------------------------------------- Result 60 ---------------------------------------------
+[[0 (100%)]] --> [[2 (84%)]]
+
+[[[[Premise]]]]: The two young girls are dressed as fairies, and are playing in the leaves outdoors.
+[[[[Hypothesis]]]]: Two girls [[play]] [[dress]] up [[indoors]].
+
+[[[[Premise]]]]: The two young girls are dressed as fairies, and are playing in the leaves outdoors.
+[[[[Hypothesis]]]]: Two girls [[reprise]] [[getup]] up [[interior]].
+--------------------------------------------- Result 61 ---------------------------------------------
+[[2 (100%)]] --> [[0 (100%)]]
+
+[[[[Premise]]]]: The two young girls are dressed as fairies, and are playing in the leaves outdoors.
+[[[[Hypothesis]]]]: The two girls [[play]] in the Autumn.
+
+[[[[Premise]]]]: The two young girls are dressed as fairies, and are playing in the leaves outdoors.
+[[[[Hypothesis]]]]: The two girls [[drill]] in the Autumn.
+--------------------------------------------- Result 62 ---------------------------------------------
+[[0 (52%)]] --> [[[SKIPPED]]]
+
+[[[[Premise]]]]: People jump over a mountain crevasse on a rope.
+[[[[Hypothesis]]]]: Some people look visually afraid to jump.
+--------------------------------------------- Result 63 ---------------------------------------------
+[[1 (92%)]] --> [[2 (100%)]]
+
+[[[[Premise]]]]: People jump over a mountain crevasse on a rope.
+[[[[Hypothesis]]]]: People are jumping [[outside]].
+
+[[[[Premise]]]]: People jump over a mountain crevasse on a rope.
+[[[[Hypothesis]]]]: People are jumping [[last]].
+--------------------------------------------- Result 64 ---------------------------------------------
+[[0 (100%)]] --> [[1 (95%)]]
+
+[[[[Premise]]]]: People jump over a mountain crevasse on a rope.
+[[[[Hypothesis]]]]: [[People]] [[slide]] over a mountain crevasse on a [[slide]].
+
+[[[[Premise]]]]: People jump over a mountain crevasse on a rope.
+[[[[Hypothesis]]]]: [[Publics]] [[glide]] over a mountain crevasse on a [[trajectory]].
+--------------------------------------------- Result 65 ---------------------------------------------
+[[1 (95%)]] --> [[0 (100%)]]
+
+[[[[Premise]]]]: A snowboarder on a wide plain of snow
+[[[[Hypothesis]]]]: A [[snow]] field with a snowboarder on it
+
+[[[[Premise]]]]: A snowboarder on a wide plain of snow
+[[[[Hypothesis]]]]: A [[rain]] field with a snowboarder on it
+--------------------------------------------- Result 66 ---------------------------------------------
+[[1 (65%)]] --> [[[SKIPPED]]]
+
+[[[[Premise]]]]: A snowboarder on a wide plain of snow
+[[[[Hypothesis]]]]: A snowboarder gliding over a field of snow
+--------------------------------------------- Result 67 ---------------------------------------------
+[[0 (100%)]] --> [[[SKIPPED]]]
+
+[[[[Premise]]]]: A snowboarder on a wide plain of snow
+[[[[Hypothesis]]]]: A snowmobile in a blizzard
+--------------------------------------------- Result 68 ---------------------------------------------
+[[0 (100%)]] --> [[2 (95%)]]
+
+[[[[Premise]]]]: An older women tending to a garden.
+[[[[Hypothesis]]]]: The lady is [[cooking]] dinner
+
+[[[[Premise]]]]: An older women tending to a garden.
+[[[[Hypothesis]]]]: The lady is [[curing]] dinner
+--------------------------------------------- Result 69 ---------------------------------------------
+[[2 (97%)]] --> [[0 (100%)]]
+
+[[[[Premise]]]]: An older women tending to a garden.
+[[[[Hypothesis]]]]: The lady is [[weeding]] her garden
+
+[[[[Premise]]]]: An older women tending to a garden.
+[[[[Hypothesis]]]]: The lady is [[discarding]] her garden
+--------------------------------------------- Result 70 ---------------------------------------------
+[[1 (85%)]] --> [[2 (99%)]]
+
+[[[[Premise]]]]: An older women tending to a garden.
+[[[[Hypothesis]]]]: The [[lady]] has a garden
+
+[[[[Premise]]]]: An older women tending to a garden.
+[[[[Hypothesis]]]]: The [[aunt]] has a garden
+--------------------------------------------- Result 71 ---------------------------------------------
+[[0 (100%)]] --> [[2 (55%)]]
+
+[[[[Premise]]]]: A man in a black shirt overlooking bike maintenance.
+[[[[Hypothesis]]]]: A man [[destroys]] a bike.
+
+[[[[Premise]]]]: A man in a black shirt overlooking bike maintenance.
+[[[[Hypothesis]]]]: A man [[manhandles]] a bike.
+--------------------------------------------- Result 72 ---------------------------------------------
+[[1 (99%)]] --> [[0 (100%)]]
+
+[[[[Premise]]]]: A man in a black shirt overlooking bike maintenance.
+[[[[Hypothesis]]]]: A man watches [[bike]] repairs.
+
+[[[[Premise]]]]: A man in a black shirt overlooking bike maintenance.
+[[[[Hypothesis]]]]: A man watches [[rickshaw]] repairs.
+--------------------------------------------- Result 73 ---------------------------------------------
+[[2 (99%)]] --> [[0 (100%)]]
+
+[[[[Premise]]]]: A man in a black shirt overlooking bike maintenance.
+[[[[Hypothesis]]]]: A man learns [[bike]] maintenance.
+
+[[[[Premise]]]]: A man in a black shirt overlooking bike maintenance.
+[[[[Hypothesis]]]]: A man learns [[rickshaw]] maintenance.
+--------------------------------------------- Result 74 ---------------------------------------------
+[[0 (100%)]] --> [[2 (66%)]]
+
+[[[[Premise]]]]: A man in a black shirt is looking at a bike in a workshop.
+[[[[Hypothesis]]]]: A man is wearing a [[red]] shirt
+
+[[[[Premise]]]]: A man in a black shirt is looking at a bike in a workshop.
+[[[[Hypothesis]]]]: A man is wearing a [[flush]] shirt
+--------------------------------------------- Result 75 ---------------------------------------------
+[[1 (92%)]] --> [[0 (100%)]]
+
+[[[[Premise]]]]: A man in a black shirt is looking at a bike in a workshop.
+[[[[Hypothesis]]]]: A man is in a black [[shirt]]
+
+[[[[Premise]]]]: A man in a black shirt is looking at a bike in a workshop.
+[[[[Hypothesis]]]]: A man is in a black [[robe]]
+--------------------------------------------- Result 76 ---------------------------------------------
+[[2 (100%)]] --> [[0 (93%)]]
+
+[[[[Premise]]]]: A man in a black shirt is looking at a bike in a workshop.
+[[[[Hypothesis]]]]: A man is deciding which [[bike]] to buy
+
+[[[[Premise]]]]: A man in a black shirt is looking at a bike in a workshop.
+[[[[Hypothesis]]]]: A man is deciding which [[rickshaw]] to buy
+--------------------------------------------- Result 77 ---------------------------------------------
+[[1 (99%)]] --> [[0 (100%)]]
+
+[[[[Premise]]]]: A man looking over a bicycle's rear wheel in the maintenance garage with various tools visible in the background.
+[[[[Hypothesis]]]]: A [[person]] is in a garage.
+
+[[[[Premise]]]]: A man looking over a bicycle's rear wheel in the maintenance garage with various tools visible in the background.
+[[[[Hypothesis]]]]: A [[ape]] is in a garage.
+--------------------------------------------- Result 78 ---------------------------------------------
+[[2 (55%)]] --> [[[SKIPPED]]]
+
+[[[[Premise]]]]: A man looking over a bicycle's rear wheel in the maintenance garage with various tools visible in the background.
+[[[[Hypothesis]]]]: A man repairs bicycles.
+--------------------------------------------- Result 79 ---------------------------------------------
+[[0 (58%)]] --> [[1 (98%)]]
+
+[[[[Premise]]]]: A man looking over a bicycle's rear wheel in the maintenance garage with various tools visible in the background.
+[[[[Hypothesis]]]]: A [[man]] waits outside a garage.
+
+[[[[Premise]]]]: A man looking over a bicycle's rear wheel in the maintenance garage with various tools visible in the background.
+[[[[Hypothesis]]]]: A [[humankind]] waits outside a garage.
+--------------------------------------------- Result 80 ---------------------------------------------
+[[0 (99%)]] --> [[1 (83%)]]
+
+[[[[Premise]]]]: Three people sit on a bench at a station, the man looks oddly at the two women, the redheaded women looks up and forward in an awkward position, and the yellow blond girl twiddles with her hair.
+[[[[Hypothesis]]]]: Some people [[stand]] around.
+
+[[[[Premise]]]]: Three people sit on a bench at a station, the man looks oddly at the two women, the redheaded women looks up and forward in an awkward position, and the yellow blond girl twiddles with her hair.
+[[[[Hypothesis]]]]: Some people [[position]] around.
+--------------------------------------------- Result 81 ---------------------------------------------
+[[0 (100%)]] --> [[2 (59%)]]
+
+[[[[Premise]]]]: Three people sit on a bench at a station, the man looks oddly at the two women, the redheaded women looks up and forward in an awkward position, and the yellow blond girl twiddles with her hair.
+[[[[Hypothesis]]]]: People [[run]] together.
+
+[[[[Premise]]]]: Three people sit on a bench at a station, the man looks oddly at the two women, the redheaded women looks up and forward in an awkward position, and the yellow blond girl twiddles with her hair.
+[[[[Hypothesis]]]]: People [[supervise]] together.
+--------------------------------------------- Result 82 ---------------------------------------------
+[[1 (93%)]] --> [[0 (100%)]]
+
+[[[[Premise]]]]: Three people sit on a bench at a station, the man looks oddly at the two women, the redheaded women looks up and forward in an awkward position, and the yellow blond girl twiddles with her hair.
+[[[[Hypothesis]]]]: People wait at a [[station]].
+
+[[[[Premise]]]]: Three people sit on a bench at a station, the man looks oddly at the two women, the redheaded women looks up and forward in an awkward position, and the yellow blond girl twiddles with her hair.
+[[[[Hypothesis]]]]: People wait at a [[bunker]].
+--------------------------------------------- Result 83 ---------------------------------------------
+[[1 (97%)]] --> [[0 (90%)]]
+
+[[[[Premise]]]]: A child wearing a red top is standing behind a blond headed child sitting in a wheelbarrow.
+[[[[Hypothesis]]]]: A [[child]] wearing a red top is standing behind a blond headed child
+
+[[[[Premise]]]]: A child wearing a red top is standing behind a blond headed child sitting in a wheelbarrow.
+[[[[Hypothesis]]]]: A [[bambino]] wearing a red top is standing behind a blond headed child
+--------------------------------------------- Result 84 ---------------------------------------------
+[[0 (100%)]] --> [[2 (97%)]]
+
+[[[[Premise]]]]: A child wearing a red top is standing behind a blond headed child sitting in a wheelbarrow.
+[[[[Hypothesis]]]]: A child wearing a red top is [[standing]] on top of a blond headed child
+
+[[[[Premise]]]]: A child wearing a red top is standing behind a blond headed child sitting in a wheelbarrow.
+[[[[Hypothesis]]]]: A child wearing a red top is [[counting]] on top of a blond headed child
+--------------------------------------------- Result 85 ---------------------------------------------
+[[2 (95%)]] --> [[0 (95%)]]
+
+[[[[Premise]]]]: A child wearing a red top is standing behind a blond headed child sitting in a wheelbarrow.
+[[[[Hypothesis]]]]: A child wearing a red top is [[standing]] behind a pretty blond headed child
+
+[[[[Premise]]]]: A child wearing a red top is standing behind a blond headed child sitting in a wheelbarrow.
+[[[[Hypothesis]]]]: A child wearing a red top is [[beding]] behind a pretty blond headed child
+--------------------------------------------- Result 86 ---------------------------------------------
+[[0 (100%)]] --> [[[FAILED]]]
+
+[[[[Premise]]]]: A man standing in front of a building on the phone as two men to the side pain on the side.
+[[[[Hypothesis]]]]: two girls walk through a hall
+--------------------------------------------- Result 87 ---------------------------------------------
+[[2 (62%)]] --> [[0 (99%)]]
+
+[[[[Premise]]]]: A person dressed in a dress with flowers and a stuffed bee attached to it, is pushing a baby stroller down the street.
+[[[[Hypothesis]]]]: An old lady pushing a stroller down a busy [[street]].
+
+[[[[Premise]]]]: A person dressed in a dress with flowers and a stuffed bee attached to it, is pushing a baby stroller down the street.
+[[[[Hypothesis]]]]: An old lady pushing a stroller down a busy [[slide]].
+--------------------------------------------- Result 88 ---------------------------------------------
+[[1 (99%)]] --> [[2 (100%)]]
+
+[[[[Premise]]]]: A person dressed in a dress with flowers and a stuffed bee attached to it, is pushing a baby stroller down the street.
+[[[[Hypothesis]]]]: A person [[outside]] pushing a stroller.
+
+[[[[Premise]]]]: A person dressed in a dress with flowers and a stuffed bee attached to it, is pushing a baby stroller down the street.
+[[[[Hypothesis]]]]: A person [[roughly]] pushing a stroller.
+--------------------------------------------- Result 89 ---------------------------------------------
+[[2 (99%)]] --> [[0 (100%)]]
+
+[[[[Premise]]]]: A dog jumping for a Frisbee in the snow.
+[[[[Hypothesis]]]]: A [[pet]] is enjoying a game of fetch with his owner.
+
+[[[[Premise]]]]: A dog jumping for a Frisbee in the snow.
+[[[[Hypothesis]]]]: A [[cat]] is enjoying a game of fetch with his owner.
+--------------------------------------------- Result 90 ---------------------------------------------
+[[0 (100%)]] --> [[2 (78%)]]
+
+[[[[Premise]]]]: A dog jumping for a Frisbee in the snow.
+[[[[Hypothesis]]]]: A [[cat]] [[washes]] his [[face]] and whiskers with his front paw.
+
+[[[[Premise]]]]: A dog jumping for a Frisbee in the snow.
+[[[[Hypothesis]]]]: A [[pet]] [[flushes]] his [[air]] and whiskers with his front paw.
+--------------------------------------------- Result 91 ---------------------------------------------
+[[1 (98%)]] --> [[0 (100%)]]
+
+[[[[Premise]]]]: A dog jumping for a Frisbee in the snow.
+[[[[Hypothesis]]]]: An [[animal]] is outside in the cold weather, playing with a plastic toy.
+
+[[[[Premise]]]]: A dog jumping for a Frisbee in the snow.
+[[[[Hypothesis]]]]: An [[elephant]] is outside in the cold weather, playing with a plastic toy.
+--------------------------------------------- Result 92 ---------------------------------------------
+[[2 (79%)]] --> [[0 (99%)]]
+
+[[[[Premise]]]]: People are conversing at a dining table under a canopy.
+[[[[Hypothesis]]]]: People at a [[party]] are seated for dinner on the lawn.
+
+[[[[Premise]]]]: People are conversing at a dining table under a canopy.
+[[[[Hypothesis]]]]: People at a [[ball]] are seated for dinner on the lawn.
+--------------------------------------------- Result 93 ---------------------------------------------
+[[1 (98%)]] --> [[0 (100%)]]
+
+[[[[Premise]]]]: People are conversing at a dining table under a canopy.
+[[[[Hypothesis]]]]: People are talking underneath a [[covering]].
+
+[[[[Premise]]]]: People are conversing at a dining table under a canopy.
+[[[[Hypothesis]]]]: People are talking underneath a [[toolbox]].
+--------------------------------------------- Result 94 ---------------------------------------------
+[[0 (100%)]] --> [[1 (80%)]]
+
+[[[[Premise]]]]: People are conversing at a dining table under a canopy.
+[[[[Hypothesis]]]]: [[People]] are [[screaming]] at a boxing [[match]].
+
+[[[[Premise]]]]: People are conversing at a dining table under a canopy.
+[[[[Hypothesis]]]]: [[Folks]] are [[clinking]] at a boxing [[proportion]].
+--------------------------------------------- Result 95 ---------------------------------------------
+[[1 (95%)]] --> [[[FAILED]]]
+
+[[[[Premise]]]]: A little boy in a gray and white striped sweater and tan pants is playing on a piece of playground equipment.
+[[[[Hypothesis]]]]: A boy is on a playground.
+--------------------------------------------- Result 96 ---------------------------------------------
+[[1 (96%)]] --> [[0 (100%)]]
+
+[[[[Premise]]]]: A girl playing a violin along with a group of people
+[[[[Hypothesis]]]]: A girl is playing an [[instrument]].
+
+[[[[Premise]]]]: A girl playing a violin along with a group of people
+[[[[Hypothesis]]]]: A girl is playing an [[pottery]].
+--------------------------------------------- Result 97 ---------------------------------------------
+[[2 (99%)]] --> [[0 (100%)]]
+
+[[[[Premise]]]]: A girl playing a violin along with a group of people
+[[[[Hypothesis]]]]: A group of people are [[playing]] in a symphony.
+
+[[[[Premise]]]]: A girl playing a violin along with a group of people
+[[[[Hypothesis]]]]: A group of people are [[drilling]] in a symphony.
+--------------------------------------------- Result 98 ---------------------------------------------
+[[2 (97%)]] --> [[0 (100%)]]
+
+[[[[Premise]]]]: A woman within an orchestra is playing a violin.
+[[[[Hypothesis]]]]: A woman is [[playing]] a concert.
+
+[[[[Premise]]]]: A woman within an orchestra is playing a violin.
+[[[[Hypothesis]]]]: A woman is [[juggling]] a concert.
+--------------------------------------------- Result 99 ---------------------------------------------
+[[1 (98%)]] --> [[0 (100%)]]
+
+[[[[Premise]]]]: A woman within an orchestra is playing a violin.
+[[[[Hypothesis]]]]: A woman is [[playing]] the violin.
+
+[[[[Premise]]]]: A woman within an orchestra is playing a violin.
+[[[[Hypothesis]]]]: A woman is [[juggling]] the violin.
+--------------------------------------------- Result 100 ---------------------------------------------
+[[0 (100%)]] --> [[1 (99%)]]
+
+[[[[Premise]]]]: A woman within an orchestra is playing a violin.
+[[[[Hypothesis]]]]: A [[man]] is [[looking]] in a [[telescope]].
+
+[[[[Premise]]]]: A woman within an orchestra is playing a violin.
+[[[[Hypothesis]]]]: A [[human]] is [[tending]] in a [[condensation]].
+--------------------------------------------- Result 101 ---------------------------------------------
+[[2 (97%)]] --> [[0 (100%)]]
+
+[[[[Premise]]]]: Three men, one holding pipes, another holding a large object above his head, and one resting against the pipe bed on the truck, are looking at the camera.
+[[[[Hypothesis]]]]: three men [[going]] to work
+
+[[[[Premise]]]]: Three men, one holding pipes, another holding a large object above his head, and one resting against the pipe bed on the truck, are looking at the camera.
+[[[[Hypothesis]]]]: three men [[streaking]] to work
+--------------------------------------------- Result 102 ---------------------------------------------
+[[1 (99%)]] --> [[0 (99%)]]
+
+[[[[Premise]]]]: Three men, one holding pipes, another holding a large object above his head, and one resting against the pipe bed on the truck, are looking at the camera.
+[[[[Hypothesis]]]]: three men [[look]] at the camera
+
+[[[[Premise]]]]: Three men, one holding pipes, another holding a large object above his head, and one resting against the pipe bed on the truck, are looking at the camera.
+[[[[Hypothesis]]]]: three men [[fall]] at the camera
+--------------------------------------------- Result 103 ---------------------------------------------
+[[0 (100%)]] --> [[[FAILED]]]
+
+[[[[Premise]]]]: A girl playing a violin along with a group of people
+[[[[Hypothesis]]]]: A girl is washing a load of laundry.
+--------------------------------------------- Result 104 ---------------------------------------------
+[[1 (97%)]] --> [[0 (100%)]]
+
+[[[[Premise]]]]: A Ford car is making a right turn as 3 males are walking across the street behind the car.
+[[[[Hypothesis]]]]: A [[car]] making a right turn had three pedestrians cross behind it.
+
+[[[[Premise]]]]: A Ford car is making a right turn as 3 males are walking across the street behind the car.
+[[[[Hypothesis]]]]: A [[motorcycle]] making a right turn had three pedestrians cross behind it.
+--------------------------------------------- Result 105 ---------------------------------------------
+[[1 (87%)]] --> [[[SKIPPED]]]
+
+[[[[Premise]]]]: A Ford car is making a right turn as 3 males are walking across the street behind the car.
+[[[[Hypothesis]]]]: A sedan was turning a corner as walkers were crossing.
+--------------------------------------------- Result 106 ---------------------------------------------
+[[0 (55%)]] --> [[1 (99%)]]
+
+[[[[Premise]]]]: A Ford car is making a right turn as 3 males are walking across the street behind the car.
+[[[[Hypothesis]]]]: A car proceeding [[straight]] as pedestrians walked across the road in back of it.
+
+[[[[Premise]]]]: A Ford car is making a right turn as 3 males are walking across the street behind the car.
+[[[[Hypothesis]]]]: A car proceeding [[upright]] as pedestrians walked across the road in back of it.
+--------------------------------------------- Result 107 ---------------------------------------------
+[[0 (100%)]] --> [[[FAILED]]]
+
+[[[[Premise]]]]: A person dressed in a dress with flowers and a stuffed bee attached to it, is pushing a baby stroller down the street.
+[[[[Hypothesis]]]]: A lady sitting on a bench in the park.
+--------------------------------------------- Result 108 ---------------------------------------------
+[[0 (100%)]] --> [[2 (100%)]]
+
+[[[[Premise]]]]: Three boys in white shirts are walking behind an older model Ford car.
+[[[[Hypothesis]]]]: There are three [[girls]]
+
+[[[[Premise]]]]: Three boys in white shirts are walking behind an older model Ford car.
+[[[[Hypothesis]]]]: There are three [[blondes]]
+--------------------------------------------- Result 109 ---------------------------------------------
+[[2 (69%)]] --> [[[SKIPPED]]]
+
+[[[[Premise]]]]: Three boys in white shirts are walking behind an older model Ford car.
+[[[[Hypothesis]]]]: The boys are on the street
+--------------------------------------------- Result 110 ---------------------------------------------
+[[1 (81%)]] --> [[0 (100%)]]
+
+[[[[Premise]]]]: Three girls blow out the candles of a cake made of Peeps.
+[[[[Hypothesis]]]]: Some people are blowing out [[candles]]
+
+[[[[Premise]]]]: Three girls blow out the candles of a cake made of Peeps.
+[[[[Hypothesis]]]]: Some people are blowing out [[floodlights]]
+--------------------------------------------- Result 111 ---------------------------------------------
+[[1 (99%)]] --> [[0 (100%)]]
+
+[[[[Premise]]]]: Three girls blow out the candles of a cake made of Peeps.
+[[[[Hypothesis]]]]: There are three girls and a [[cake]]
+
+[[[[Premise]]]]: Three girls blow out the candles of a cake made of Peeps.
+[[[[Hypothesis]]]]: There are three girls and a [[salad]]
+--------------------------------------------- Result 112 ---------------------------------------------
+[[0 (39%)]] --> [[2 (62%)]]
+
+[[[[Premise]]]]: Three girls blow out the candles of a cake made of Peeps.
+[[[[Hypothesis]]]]: There are [[peeps]] in the garden.
+
+[[[[Premise]]]]: Three girls blow out the candles of a cake made of Peeps.
+[[[[Hypothesis]]]]: There are [[tunes]] in the garden.
+--------------------------------------------- Result 113 ---------------------------------------------
+[[2 (100%)]] --> [[0 (93%)]]
+
+[[[[Premise]]]]: A crowd of people looking up at 3 people on the edge of the roof of a building.
+[[[[Hypothesis]]]]: The crowd is [[calling]] for help for the people on the roof.
+
+[[[[Premise]]]]: A crowd of people looking up at 3 people on the edge of the roof of a building.
+[[[[Hypothesis]]]]: The crowd is [[roaring]] for help for the people on the roof.
+--------------------------------------------- Result 114 ---------------------------------------------
+[[0 (90%)]] --> [[[SKIPPED]]]
+
+[[[[Premise]]]]: A crowd of people looking up at 3 people on the edge of the roof of a building.
+[[[[Hypothesis]]]]: The crowd on the ground is watching 3 people on the roof's edge.
+--------------------------------------------- Result 115 ---------------------------------------------
+[[0 (100%)]] --> [[1 (87%)]]
+
+[[[[Premise]]]]: A crowd of people looking up at 3 people on the edge of the roof of a building.
+[[[[Hypothesis]]]]: Three [[people]] are [[climbing]] down the [[ladder]] on the building.
+
+[[[[Premise]]]]: A crowd of people looking up at 3 people on the edge of the roof of a building.
+[[[[Hypothesis]]]]: Three [[populations]] are [[scaling]] down the [[terrace]] on the building.
+--------------------------------------------- Result 116 ---------------------------------------------
+[[2 (99%)]] --> [[0 (100%)]]
+
+[[[[Premise]]]]: A woman working long hours.
+[[[[Hypothesis]]]]: A woman is [[working]] in a factory.
+
+[[[[Premise]]]]: A woman working long hours.
+[[[[Hypothesis]]]]: A woman is [[playing]] in a factory.
+--------------------------------------------- Result 117 ---------------------------------------------
+[[1 (97%)]] --> [[0 (100%)]]
+
+[[[[Premise]]]]: A woman working long hours.
+[[[[Hypothesis]]]]: A woman is [[working]].
+
+[[[[Premise]]]]: A woman working long hours.
+[[[[Hypothesis]]]]: A woman is [[playing]].
+--------------------------------------------- Result 118 ---------------------------------------------
+[[0 (100%)]] --> [[[FAILED]]]
+
+[[[[Premise]]]]: A woman working long hours.
+[[[[Hypothesis]]]]: A woman is sleeping.
+--------------------------------------------- Result 119 ---------------------------------------------
+[[0 (100%)]] --> [[2 (98%)]]
+
+[[[[Premise]]]]: Two teenage girls conversing next to lockers.
+[[[[Hypothesis]]]]: Girls talking [[next]] to the toilet.
+
+[[[[Premise]]]]: Two teenage girls conversing next to lockers.
+[[[[Hypothesis]]]]: Girls talking [[since]] to the toilet.
+--------------------------------------------- Result 120 ---------------------------------------------
+[[1 (99%)]] --> [[0 (99%)]]
+
+[[[[Premise]]]]: Two teenage girls conversing next to lockers.
+[[[[Hypothesis]]]]: People talking next to [[lockers]].
+
+[[[[Premise]]]]: Two teenage girls conversing next to lockers.
+[[[[Hypothesis]]]]: People talking next to [[banks]].
+--------------------------------------------- Result 121 ---------------------------------------------
+[[2 (100%)]] --> [[1 (54%)]]
+
+[[[[Premise]]]]: Two teenage girls conversing next to lockers.
+[[[[Hypothesis]]]]: Girls talking about their [[problems]] next to lockers.
+
+[[[[Premise]]]]: Two teenage girls conversing next to lockers.
+[[[[Hypothesis]]]]: Girls talking about their [[matters]] next to lockers.
+--------------------------------------------- Result 122 ---------------------------------------------
+[[2 (96%)]] --> [[0 (86%)]]
+
+[[[[Premise]]]]: An old woman watches a man look down at some balls on the ground.
+[[[[Hypothesis]]]]: An elderly female is [[stalking]] a male.
+
+[[[[Premise]]]]: An old woman watches a man look down at some balls on the ground.
+[[[[Hypothesis]]]]: An elderly female is [[tailing]] a male.
+--------------------------------------------- Result 123 ---------------------------------------------
+[[2 (100%)]] --> [[[SKIPPED]]]
+
+[[[[Premise]]]]: An old woman watches a man look down at some balls on the ground.
+[[[[Hypothesis]]]]: A gray haired person is looking at a gentleman.
+--------------------------------------------- Result 124 ---------------------------------------------
+[[0 (100%)]] --> [[1 (81%)]]
+
+[[[[Premise]]]]: An old woman watches a man look down at some balls on the ground.
+[[[[Hypothesis]]]]: Two [[people]] are [[sleeping]] on the [[train]].
+
+[[[[Premise]]]]: An old woman watches a man look down at some balls on the ground.
+[[[[Hypothesis]]]]: Two [[folks]] are [[resting]] on the [[discipline]].
+--------------------------------------------- Result 125 ---------------------------------------------
+[[2 (100%)]] --> [[0 (100%)]]
+
+[[[[Premise]]]]: Two children, both wearing tan coats, are embracing one another.
+[[[[Hypothesis]]]]: Two [[kids]] are hugging after surviving a horrible car wreck.
+
+[[[[Premise]]]]: Two children, both wearing tan coats, are embracing one another.
+[[[[Hypothesis]]]]: Two [[lambs]] are hugging after surviving a horrible car wreck.
+--------------------------------------------- Result 126 ---------------------------------------------
+[[1 (99%)]] --> [[0 (100%)]]
+
+[[[[Premise]]]]: Two children, both wearing tan coats, are embracing one another.
+[[[[Hypothesis]]]]: Two [[kids]] are hugging.
+
+[[[[Premise]]]]: Two children, both wearing tan coats, are embracing one another.
+[[[[Hypothesis]]]]: Two [[lambs]] are hugging.
+--------------------------------------------- Result 127 ---------------------------------------------
+[[0 (100%)]] --> [[2 (67%)]]
+
+[[[[Premise]]]]: Two children, both wearing tan coats, are embracing one another.
+[[[[Hypothesis]]]]: Two [[kids]] are [[running]] down a highway.
+
+[[[[Premise]]]]: Two children, both wearing tan coats, are embracing one another.
+[[[[Hypothesis]]]]: Two [[preteens]] are [[proceeding]] down a highway.
+--------------------------------------------- Result 128 ---------------------------------------------
+[[2 (98%)]] --> [[0 (86%)]]
+
+[[[[Premise]]]]: 2 kids who look related are hanging out with 1 of them looking very emotional and hugging the other.
+[[[[Hypothesis]]]]: A [[couple]] of [[child]] relatives were hugging because they were happy to see each other.
+
+[[[[Premise]]]]: 2 kids who look related are hanging out with 1 of them looking very emotional and hugging the other.
+[[[[Hypothesis]]]]: A [[paste]] of [[bambino]] relatives were hugging because they were happy to see each other.
+--------------------------------------------- Result 129 ---------------------------------------------
+[[1 (90%)]] --> [[0 (99%)]]
+
+[[[[Premise]]]]: 2 kids who look related are hanging out with 1 of them looking very emotional and hugging the other.
+[[[[Hypothesis]]]]: Two [[kids]] were hugging.
+
+[[[[Premise]]]]: 2 kids who look related are hanging out with 1 of them looking very emotional and hugging the other.
+[[[[Hypothesis]]]]: Two [[lambs]] were hugging.
+--------------------------------------------- Result 130 ---------------------------------------------
+[[0 (99%)]] --> [[1 (98%)]]
+
+[[[[Premise]]]]: 2 kids who look related are hanging out with 1 of them looking very emotional and hugging the other.
+[[[[Hypothesis]]]]: Two youths were [[pushing]] each other.
+
+[[[[Premise]]]]: 2 kids who look related are hanging out with 1 of them looking very emotional and hugging the other.
+[[[[Hypothesis]]]]: Two youths were [[exerting]] each other.
+--------------------------------------------- Result 131 ---------------------------------------------
+[[0 (100%)]] --> [[1 (95%)]]
+
+[[[[Premise]]]]: A large number of people wearing only white and red are walking on a street.
+[[[[Hypothesis]]]]: A large number of people wearing [[black]] walking down the street.
+
+[[[[Premise]]]]: A large number of people wearing only white and red are walking on a street.
+[[[[Hypothesis]]]]: A large number of people wearing [[disreputable]] walking down the street.
+--------------------------------------------- Result 132 ---------------------------------------------
+[[2 (94%)]] --> [[1 (98%)]]
+
+[[[[Premise]]]]: A large number of people wearing only white and red are walking on a street.
+[[[[Hypothesis]]]]: A large number of [[men]] walking down the street in red and white.
+
+[[[[Premise]]]]: A large number of people wearing only white and red are walking on a street.
+[[[[Hypothesis]]]]: A large number of [[folks]] walking down the street in red and white.
+--------------------------------------------- Result 133 ---------------------------------------------
+[[1 (99%)]] --> [[0 (100%)]]
+
+[[[[Premise]]]]: A large number of people wearing only white and red are walking on a street.
+[[[[Hypothesis]]]]: A large number of people walking on a [[street]].
+
+[[[[Premise]]]]: A large number of people wearing only white and red are walking on a street.
+[[[[Hypothesis]]]]: A large number of people walking on a [[slide]].
+--------------------------------------------- Result 134 ---------------------------------------------
+[[2 (100%)]] --> [[0 (100%)]]
+
+[[[[Premise]]]]: A guy riding a motorcycle near junk cars
+[[[[Hypothesis]]]]: The man is test driving a [[motorcycle]] to decide whether or not he will buy it.
+
+[[[[Premise]]]]: A guy riding a motorcycle near junk cars
+[[[[Hypothesis]]]]: The man is test driving a [[van]] to decide whether or not he will buy it.
+--------------------------------------------- Result 135 ---------------------------------------------
+[[1 (98%)]] --> [[0 (100%)]]
+
+[[[[Premise]]]]: A guy riding a motorcycle near junk cars
+[[[[Hypothesis]]]]: A man is [[riding]] a motorcycle.
+
+[[[[Premise]]]]: A guy riding a motorcycle near junk cars
+[[[[Hypothesis]]]]: A man is [[separating]] a motorcycle.
+--------------------------------------------- Result 136 ---------------------------------------------
+[[0 (93%)]] --> [[2 (99%)]]
+
+[[[[Premise]]]]: A guy riding a motorcycle near junk cars
+[[[[Hypothesis]]]]: A man is [[sitting]] on a parked motorcycle waiting for his friend.
+
+[[[[Premise]]]]: A guy riding a motorcycle near junk cars
+[[[[Hypothesis]]]]: A man is [[rideing]] on a parked motorcycle waiting for his friend.
+--------------------------------------------- Result 137 ---------------------------------------------
+[[1 (91%)]] --> [[2 (98%)]]
+
+[[[[Premise]]]]: Women of India performing with blue streamers, in beautiful blue costumes.
+[[[[Hypothesis]]]]: indian [[women]] perform together in gorgeous costumes
+
+[[[[Premise]]]]: Women of India performing with blue streamers, in beautiful blue costumes.
+[[[[Hypothesis]]]]: indian [[aunts]] perform together in gorgeous costumes
+--------------------------------------------- Result 138 ---------------------------------------------
+[[0 (100%)]] --> [[1 (99%)]]
+
+[[[[Premise]]]]: Women of India performing with blue streamers, in beautiful blue costumes.
+[[[[Hypothesis]]]]: [[dogs]] sniff the air
+
+[[[[Premise]]]]: Women of India performing with blue streamers, in beautiful blue costumes.
+[[[[Hypothesis]]]]: [[canines]] sniff the air
+--------------------------------------------- Result 139 ---------------------------------------------
+[[2 (100%)]] --> [[0 (53%)]]
+
+[[[[Premise]]]]: Women of India performing with blue streamers, in beautiful blue costumes.
+[[[[Hypothesis]]]]: indian women are [[performing]] a religious ritual together
+
+[[[[Premise]]]]: Women of India performing with blue streamers, in beautiful blue costumes.
+[[[[Hypothesis]]]]: indian women are [[adopting]] a religious ritual together
+--------------------------------------------- Result 140 ---------------------------------------------
+[[1 (98%)]] --> [[0 (100%)]]
+
+[[[[Premise]]]]: A professional swimmer spits water out after surfacing while grabbing the hand of someone helping him back to land.
+[[[[Hypothesis]]]]: A [[person]] is swimming.
+
+[[[[Premise]]]]: A professional swimmer spits water out after surfacing while grabbing the hand of someone helping him back to land.
+[[[[Hypothesis]]]]: A [[ape]] is swimming.
+--------------------------------------------- Result 141 ---------------------------------------------
+[[0 (100%)]] --> [[2 (56%)]]
+
+[[[[Premise]]]]: A professional swimmer spits water out after surfacing while grabbing the hand of someone helping him back to land.
+[[[[Hypothesis]]]]: The [[swimmer]] is [[eating]] a toasted [[marshmallow]].
+
+[[[[Premise]]]]: A professional swimmer spits water out after surfacing while grabbing the hand of someone helping him back to land.
+[[[[Hypothesis]]]]: The [[sportsman]] is [[corroding]] a toasted [[sucker]].
+--------------------------------------------- Result 142 ---------------------------------------------
+[[2 (99%)]] --> [[0 (100%)]]
+
+[[[[Premise]]]]: A professional swimmer spits water out after surfacing while grabbing the hand of someone helping him back to land.
+[[[[Hypothesis]]]]: The [[swimmer]] almost drowned after being sucked under a fast current.
+
+[[[[Premise]]]]: A professional swimmer spits water out after surfacing while grabbing the hand of someone helping him back to land.
+[[[[Hypothesis]]]]: The [[skydiver]] almost drowned after being sucked under a fast current.
+--------------------------------------------- Result 143 ---------------------------------------------
+[[2 (100%)]] --> [[0 (93%)]]
+
+[[[[Premise]]]]: The man in the black wetsuit is walking out of the water.
+[[[[Hypothesis]]]]: A [[man]] in a wetsuit walks out of the water carrying a surfboard.
+
+[[[[Premise]]]]: The man in the black wetsuit is walking out of the water.
+[[[[Hypothesis]]]]: A [[ape]] in a wetsuit walks out of the water carrying a surfboard.
+--------------------------------------------- Result 144 ---------------------------------------------
+[[1 (98%)]] --> [[2 (100%)]]
+
+[[[[Premise]]]]: The man in the black wetsuit is walking out of the water.
+[[[[Hypothesis]]]]: a person is walking out of [[water]].
+
+[[[[Premise]]]]: The man in the black wetsuit is walking out of the water.
+[[[[Hypothesis]]]]: a person is walking out of [[irrigation]].
+--------------------------------------------- Result 145 ---------------------------------------------
+[[0 (100%)]] --> [[2 (74%)]]
+
+[[[[Premise]]]]: The man in the black wetsuit is walking out of the water.
+[[[[Hypothesis]]]]: A man is [[laying]] on the beach.
+
+[[[[Premise]]]]: The man in the black wetsuit is walking out of the water.
+[[[[Hypothesis]]]]: A man is [[preceding]] on the beach.
+--------------------------------------------- Result 146 ---------------------------------------------
+[[2 (100%)]] --> [[0 (74%)]]
+
+[[[[Premise]]]]: Five girls and two guys are crossing a overpass.
+[[[[Hypothesis]]]]: The extended [[family]] [[hike]] together on their [[family]] reunion.
+
+[[[[Premise]]]]: Five girls and two guys are crossing a overpass.
+[[[[Hypothesis]]]]: The extended [[household]] [[rise]] together on their [[clan]] reunion.
+--------------------------------------------- Result 147 ---------------------------------------------
+[[0 (100%)]] --> [[2 (96%)]]
+
+[[[[Premise]]]]: Five girls and two guys are crossing a overpass.
+[[[[Hypothesis]]]]: The three [[men]] [[sit]] and [[talk]] about their lives.
+
+[[[[Premise]]]]: Five girls and two guys are crossing a overpass.
+[[[[Hypothesis]]]]: The three [[populations]] [[ride]] and [[articulate]] about their lives.
+--------------------------------------------- Result 148 ---------------------------------------------
+[[1 (100%)]] --> [[0 (99%)]]
+
+[[[[Premise]]]]: Five girls and two guys are crossing a overpass.
+[[[[Hypothesis]]]]: There are people [[outside]].
+
+[[[[Premise]]]]: Five girls and two guys are crossing a overpass.
+[[[[Hypothesis]]]]: There are people [[only]].
+--------------------------------------------- Result 149 ---------------------------------------------
+[[2 (99%)]] --> [[0 (95%)]]
+
+[[[[Premise]]]]: A person with a purple shirt is painting an image of a woman on a white wall.
+[[[[Hypothesis]]]]: A woman [[paints]] a portrait of her best friend.
+
+[[[[Premise]]]]: A person with a purple shirt is painting an image of a woman on a white wall.
+[[[[Hypothesis]]]]: A woman [[scrabble]] a portrait of her best friend.
+--------------------------------------------- Result 150 ---------------------------------------------
+[[1 (50%)]] --> [[[SKIPPED]]]
+
+[[[[Premise]]]]: A person with a purple shirt is painting an image of a woman on a white wall.
+[[[[Hypothesis]]]]: A woman paints a portrait of a person.
+--------------------------------------------- Result 151 ---------------------------------------------
+[[0 (100%)]] --> [[2 (95%)]]
+
+[[[[Premise]]]]: A person with a purple shirt is painting an image of a woman on a white wall.
+[[[[Hypothesis]]]]: A woman paints a portrait of a [[monkey]].
+
+[[[[Premise]]]]: A person with a purple shirt is painting an image of a woman on a white wall.
+[[[[Hypothesis]]]]: A woman paints a portrait of a [[anaconda]].
+--------------------------------------------- Result 152 ---------------------------------------------
+[[1 (100%)]] --> [[0 (100%)]]
+
+[[[[Premise]]]]: A woman is painting a mural of a woman's face.
+[[[[Hypothesis]]]]: There is a woman [[painting]].
+
+[[[[Premise]]]]: A woman is painting a mural of a woman's face.
+[[[[Hypothesis]]]]: There is a woman [[glueing]].
+--------------------------------------------- Result 153 ---------------------------------------------
+[[2 (97%)]] --> [[0 (100%)]]
+
+[[[[Premise]]]]: A woman is painting a mural of a woman's face.
+[[[[Hypothesis]]]]: There is a woman [[painting]] for fun.
+
+[[[[Premise]]]]: A woman is painting a mural of a woman's face.
+[[[[Hypothesis]]]]: There is a woman [[glueing]] for fun.
+--------------------------------------------- Result 154 ---------------------------------------------
+[[1 (100%)]] --> [[[FAILED]]]
+
+[[[[Premise]]]]: Three boys in white shirts are walking behind an older model Ford car.
+[[[[Hypothesis]]]]: there are three boys
+--------------------------------------------- Result 155 ---------------------------------------------
+[[0 (100%)]] --> [[2 (100%)]]
+
+[[[[Premise]]]]: A couple is eating outside at a table and he is pointing at something.
+[[[[Hypothesis]]]]: A couple is eating [[inside]] at a table and he is pointing at something.
+
+[[[[Premise]]]]: A couple is eating outside at a table and he is pointing at something.
+[[[[Hypothesis]]]]: A couple is eating [[fortuitously]] at a table and he is pointing at something.
+--------------------------------------------- Result 156 ---------------------------------------------
+[[0 (100%)]] --> [[1 (72%)]]
+
+[[[[Premise]]]]: A woman is painting a mural of a woman's face.
+[[[[Hypothesis]]]]: There is a [[man]] [[tying]] his [[shoes]].
+
+[[[[Premise]]]]: A woman is painting a mural of a woman's face.
+[[[[Hypothesis]]]]: There is a [[human]] [[pasting]] his [[stockings]].
+--------------------------------------------- Result 157 ---------------------------------------------
+[[2 (100%)]] --> [[0 (100%)]]
+
+[[[[Premise]]]]: A couple is eating outside at a table and he is pointing at something.
+[[[[Hypothesis]]]]: The man is [[pointing]] at a purse snatcher.
+
+[[[[Premise]]]]: A couple is eating outside at a table and he is pointing at something.
+[[[[Hypothesis]]]]: The man is [[driving]] at a purse snatcher.
+--------------------------------------------- Result 158 ---------------------------------------------
+[[1 (98%)]] --> [[0 (95%)]]
+
+[[[[Premise]]]]: A couple is eating outside at a table and he is pointing at something.
+[[[[Hypothesis]]]]: People are eating at a [[table]] outside.
+
+[[[[Premise]]]]: A couple is eating outside at a table and he is pointing at something.
+[[[[Hypothesis]]]]: People are eating at a [[treadmill]] outside.
+--------------------------------------------- Result 159 ---------------------------------------------
+[[2 (100%)]] --> [[0 (74%)]]
+
+[[[[Premise]]]]: Two women walk down a sidewalk along a busy street in a downtown area.
+[[[[Hypothesis]]]]: The women were [[walking]] downtown because the buses were on strike
+
+[[[[Premise]]]]: Two women walk down a sidewalk along a busy street in a downtown area.
+[[[[Hypothesis]]]]: The women were [[trailing]] downtown because the buses were on strike
+--------------------------------------------- Result 160 ---------------------------------------------
+[[1 (75%)]] --> [[2 (49%)]]
+
+[[[[Premise]]]]: Two women walk down a sidewalk along a busy street in a downtown area.
+[[[[Hypothesis]]]]: The women were [[walking]] downtown
+
+[[[[Premise]]]]: Two women walk down a sidewalk along a busy street in a downtown area.
+[[[[Hypothesis]]]]: The women were [[shambling]] downtown
+--------------------------------------------- Result 161 ---------------------------------------------
+[[2 (100%)]] --> [[0 (61%)]]
+
+[[[[Premise]]]]: Many people standing outside of a place talking to each other in front of a building that has a sign that says "HI-POINTE."
+[[[[Hypothesis]]]]: The people are having a chat before [[going]] into the work building.
+
+[[[[Premise]]]]: Many people standing outside of a place talking to each other in front of a building that has a sign that says "HI-POINTE."
+[[[[Hypothesis]]]]: The people are having a chat before [[floating]] into the work building.
+--------------------------------------------- Result 162 ---------------------------------------------
+[[1 (80%)]] --> [[0 (93%)]]
+
+[[[[Premise]]]]: Many people standing outside of a place talking to each other in front of a building that has a sign that says "HI-POINTE."
+[[[[Hypothesis]]]]: The [[group]] of people aren't inide of the building.
+
+[[[[Premise]]]]: Many people standing outside of a place talking to each other in front of a building that has a sign that says "HI-POINTE."
+[[[[Hypothesis]]]]: The [[creation]] of people aren't inide of the building.
+--------------------------------------------- Result 163 ---------------------------------------------
+[[0 (100%)]] --> [[2 (69%)]]
+
+[[[[Premise]]]]: Many people standing outside of a place talking to each other in front of a building that has a sign that says "HI-POINTE."
+[[[[Hypothesis]]]]: The [[people]] are [[sitting]] in the hotel [[lobby]].
+
+[[[[Premise]]]]: Many people standing outside of a place talking to each other in front of a building that has a sign that says "HI-POINTE."
+[[[[Hypothesis]]]]: The [[publics]] are [[straddling]] in the hotel [[reminder]].
+--------------------------------------------- Result 164 ---------------------------------------------
+[[0 (100%)]] --> [[2 (98%)]]
+
+[[[[Premise]]]]: Two women walk down a sidewalk along a busy street in a downtown area.
+[[[[Hypothesis]]]]: The women were [[picking]] [[berries]] in the [[countryside]]
+
+[[[[Premise]]]]: Two women walk down a sidewalk along a busy street in a downtown area.
+[[[[Hypothesis]]]]: The women were [[opting]] [[dates]] in the [[town]]
+--------------------------------------------- Result 165 ---------------------------------------------
+[[2 (96%)]] --> [[0 (100%)]]
+
+[[[[Premise]]]]: The flight attendant dressed in yellow demonstrates life vest usage.
+[[[[Hypothesis]]]]: A flight attendant is standing in [[front]] of passengers.
+
+[[[[Premise]]]]: The flight attendant dressed in yellow demonstrates life vest usage.
+[[[[Hypothesis]]]]: A flight attendant is standing in [[envelope]] of passengers.
+--------------------------------------------- Result 166 ---------------------------------------------
+[[2 (87%)]] --> [[[SKIPPED]]]
+
+[[[[Premise]]]]: The flight attendant dressed in yellow demonstrates life vest usage.
+[[[[Hypothesis]]]]: A woman is preparing drinks on an airplane.
+--------------------------------------------- Result 167 ---------------------------------------------
+[[1 (99%)]] --> [[0 (99%)]]
+
+[[[[Premise]]]]: The girls walk down the street.
+[[[[Hypothesis]]]]: Girls walk down the [[street]].
+
+[[[[Premise]]]]: The girls walk down the street.
+[[[[Hypothesis]]]]: Girls walk down the [[slide]].
+--------------------------------------------- Result 168 ---------------------------------------------
+[[0 (100%)]] --> [[2 (90%)]]
+
+[[[[Premise]]]]: The girls walk down the street.
+[[[[Hypothesis]]]]: Girls [[set]] down in the street.
+
+[[[[Premise]]]]: The girls walk down the street.
+[[[[Hypothesis]]]]: Girls [[retooled]] down in the street.
+--------------------------------------------- Result 169 ---------------------------------------------
+[[2 (95%)]] --> [[0 (100%)]]
+
+[[[[Premise]]]]: The girls walk down the street.
+[[[[Hypothesis]]]]: Girls were [[going]] to the park.
+
+[[[[Premise]]]]: The girls walk down the street.
+[[[[Hypothesis]]]]: Girls were [[floating]] to the park.
+--------------------------------------------- Result 170 ---------------------------------------------
+[[2 (97%)]] --> [[1 (91%)]]
+
+[[[[Premise]]]]: The flight attendant dressed in yellow demonstrates life vest usage.
+[[[[Hypothesis]]]]: A flight [[attendant]] is [[demonstrating]] safety [[procedures]] before takeoff.
+
+[[[[Premise]]]]: The flight attendant dressed in yellow demonstrates life vest usage.
+[[[[Hypothesis]]]]: A flight [[retainer]] is [[featuring]] safety [[processes]] before takeoff.
+--------------------------------------------- Result 171 ---------------------------------------------
+[[1 (99%)]] --> [[0 (100%)]]
+
+[[[[Premise]]]]: A man wearing a red uniform and helmet stands on his motorbike.
+[[[[Hypothesis]]]]: a person [[standing]].
+
+[[[[Premise]]]]: A man wearing a red uniform and helmet stands on his motorbike.
+[[[[Hypothesis]]]]: a person [[shopping]].
+--------------------------------------------- Result 172 ---------------------------------------------
+[[1 (99%)]] --> [[2 (100%)]]
+
+[[[[Premise]]]]: A man wearing a red uniform and helmet stands on his motorbike.
+[[[[Hypothesis]]]]: a [[man]] standing on his motorbike.
+
+[[[[Premise]]]]: A man wearing a red uniform and helmet stands on his motorbike.
+[[[[Hypothesis]]]]: a [[brother]] standing on his motorbike.
+--------------------------------------------- Result 173 ---------------------------------------------
+[[0 (100%)]] --> [[1 (99%)]]
+
+[[[[Premise]]]]: A man wearing a red uniform and helmet stands on his motorbike.
+[[[[Hypothesis]]]]: a [[man]] [[sitting]] in a [[car]].
+
+[[[[Premise]]]]: A man wearing a red uniform and helmet stands on his motorbike.
+[[[[Hypothesis]]]]: a [[human]] [[straddling]] in a [[automobile]].
+--------------------------------------------- Result 174 ---------------------------------------------
+[[1 (97%)]] --> [[2 (100%)]]
+
+[[[[Premise]]]]: A man of the cloth puts a black substance on a man's forehead.
+[[[[Hypothesis]]]]: The [[man]] puts something on the other mans head.
+
+[[[[Premise]]]]: A man of the cloth puts a black substance on a man's forehead.
+[[[[Hypothesis]]]]: The [[militia]] puts something on the other mans head.
+--------------------------------------------- Result 175 ---------------------------------------------
+[[0 (98%)]] --> [[[SKIPPED]]]
+
+[[[[Premise]]]]: A man of the cloth puts a black substance on a man's forehead.
+[[[[Hypothesis]]]]: The men are at church.
+--------------------------------------------- Result 176 ---------------------------------------------
+[[1 (99%)]] --> [[0 (99%)]]
+
+[[[[Premise]]]]: A person rolls down a hill riding a wagon as another watches.
+[[[[Hypothesis]]]]: Two people are [[outside]].
+
+[[[[Premise]]]]: A person rolls down a hill riding a wagon as another watches.
+[[[[Hypothesis]]]]: Two people are [[agnostic]].
+--------------------------------------------- Result 177 ---------------------------------------------
+[[0 (100%)]] --> [[2 (59%)]]
+
+[[[[Premise]]]]: A person rolls down a hill riding a wagon as another watches.
+[[[[Hypothesis]]]]: A person stares at an [[empty]] hill.
+
+[[[[Premise]]]]: A person rolls down a hill riding a wagon as another watches.
+[[[[Hypothesis]]]]: A person stares at an [[unspecified]] hill.
+--------------------------------------------- Result 178 ---------------------------------------------
+[[2 (89%)]] --> [[0 (100%)]]
+
+[[[[Premise]]]]: A person rolls down a hill riding a wagon as another watches.
+[[[[Hypothesis]]]]: A child in a [[wagon]] rolls down a hill.
+
+[[[[Premise]]]]: A person rolls down a hill riding a wagon as another watches.
+[[[[Hypothesis]]]]: A child in a [[truck]] rolls down a hill.
+--------------------------------------------- Result 179 ---------------------------------------------
+[[2 (98%)]] --> [[1 (87%)]]
+
+[[[[Premise]]]]: a boy holding onto the wall of an old brick house's raised foundation.
+[[[[Hypothesis]]]]: a boy holding onto the wall of an old brick house's raised foundation as [[construction]] occurs
+
+[[[[Premise]]]]: a boy holding onto the wall of an old brick house's raised foundation.
+[[[[Hypothesis]]]]: a boy holding onto the wall of an old brick house's raised foundation as [[outline]] occurs
+--------------------------------------------- Result 180 ---------------------------------------------
+[[0 (100%)]] --> [[2 (98%)]]
+
+[[[[Premise]]]]: a boy holding onto the wall of an old brick house's raised foundation.
+[[[[Hypothesis]]]]: a [[girl]] is leaning against the wall
+
+[[[[Premise]]]]: a boy holding onto the wall of an old brick house's raised foundation.
+[[[[Hypothesis]]]]: a [[blonde]] is leaning against the wall
+--------------------------------------------- Result 181 ---------------------------------------------
+[[1 (71%)]] --> [[0 (99%)]]
+
+[[[[Premise]]]]: a boy holding onto the wall of an old brick house's raised foundation.
+[[[[Hypothesis]]]]: a boy is against the wall of a raised [[foundation]]
+
+[[[[Premise]]]]: a boy holding onto the wall of an old brick house's raised foundation.
+[[[[Hypothesis]]]]: a boy is against the wall of a raised [[bed]]
+--------------------------------------------- Result 182 ---------------------------------------------
+[[0 (100%)]] --> [[[FAILED]]]
+
+[[[[Premise]]]]: A man of the cloth puts a black substance on a man's forehead.
+[[[[Hypothesis]]]]: The women are at the park.
+--------------------------------------------- Result 183 ---------------------------------------------
+[[1 (93%)]] --> [[0 (100%)]]
+
+[[[[Premise]]]]: Bruce Springsteen, with one arm outstretched, is singing in the spotlight in a dark concert hall.
+[[[[Hypothesis]]]]: Bruce Springsteen is a [[singer]].
+
+[[[[Premise]]]]: Bruce Springsteen, with one arm outstretched, is singing in the spotlight in a dark concert hall.
+[[[[Hypothesis]]]]: Bruce Springsteen is a [[minstrel]].
+--------------------------------------------- Result 184 ---------------------------------------------
+[[2 (99%)]] --> [[0 (99%)]]
+
+[[[[Premise]]]]: Bruce Springsteen, with one arm outstretched, is singing in the spotlight in a dark concert hall.
+[[[[Hypothesis]]]]: Bruce Springsteen is [[gay]]
+
+[[[[Premise]]]]: Bruce Springsteen, with one arm outstretched, is singing in the spotlight in a dark concert hall.
+[[[[Hypothesis]]]]: Bruce Springsteen is [[homo]]
+--------------------------------------------- Result 185 ---------------------------------------------
+[[1 (68%)]] --> [[[SKIPPED]]]
+
+[[[[Premise]]]]: Six dogs swimming in a river.
+[[[[Hypothesis]]]]: Six dogs swim across the river.
+--------------------------------------------- Result 186 ---------------------------------------------
+[[1 (99%)]] --> [[2 (100%)]]
+
+[[[[Premise]]]]: Six dogs swimming in a river.
+[[[[Hypothesis]]]]: Six [[dogs]] are outdoors.
+
+[[[[Premise]]]]: Six dogs swimming in a river.
+[[[[Hypothesis]]]]: Six [[huskies]] are outdoors.
+--------------------------------------------- Result 187 ---------------------------------------------
+[[0 (100%)]] --> [[[FAILED]]]
+
+[[[[Premise]]]]: Three men, one holding pipes, another holding a large object above his head, and one resting against the pipe bed on the truck, are looking at the camera.
+[[[[Hypothesis]]]]: three men sleeping in a tent
+--------------------------------------------- Result 188 ---------------------------------------------
+[[0 (94%)]] --> [[2 (99%)]]
+
+[[[[Premise]]]]: A man and woman are taking a picture of themselves while a woman in a scarf walks by them.
+[[[[Hypothesis]]]]: A man and woman have mug shots taken because they have been [[arrested]].
+
+[[[[Premise]]]]: A man and woman are taking a picture of themselves while a woman in a scarf walks by them.
+[[[[Hypothesis]]]]: A man and woman have mug shots taken because they have been [[captivated]].
+--------------------------------------------- Result 189 ---------------------------------------------
+[[2 (93%)]] --> [[0 (100%)]]
+
+[[[[Premise]]]]: A man and woman are taking a picture of themselves while a woman in a scarf walks by them.
+[[[[Hypothesis]]]]: A [[man]] and woman take selfies while a woman walks by and judges them.
+
+[[[[Premise]]]]: A man and woman are taking a picture of themselves while a woman in a scarf walks by them.
+[[[[Hypothesis]]]]: A [[ape]] and woman take selfies while a woman walks by and judges them.
+--------------------------------------------- Result 190 ---------------------------------------------
+[[1 (96%)]] --> [[0 (100%)]]
+
+[[[[Premise]]]]: A man and woman are taking a picture of themselves while a woman in a scarf walks by them.
+[[[[Hypothesis]]]]: A man and woman [[take]] selfies of themselves.
+
+[[[[Premise]]]]: A man and woman are taking a picture of themselves while a woman in a scarf walks by them.
+[[[[Hypothesis]]]]: A man and woman [[handcuff]] selfies of themselves.
+--------------------------------------------- Result 191 ---------------------------------------------
+[[1 (99%)]] --> [[0 (100%)]]
+
+[[[[Premise]]]]: a group of people dancing together.
+[[[[Hypothesis]]]]: People are [[dancing]].
+
+[[[[Premise]]]]: a group of people dancing together.
+[[[[Hypothesis]]]]: People are [[juggling]].
+--------------------------------------------- Result 192 ---------------------------------------------
+[[2 (100%)]] --> [[0 (100%)]]
+
+[[[[Premise]]]]: a group of people dancing together.
+[[[[Hypothesis]]]]: They are doing the [[tango]].
+
+[[[[Premise]]]]: a group of people dancing together.
+[[[[Hypothesis]]]]: They are doing the [[movie]].
+--------------------------------------------- Result 193 ---------------------------------------------
+[[0 (100%)]] --> [[[FAILED]]]
+
+[[[[Premise]]]]: Six dogs swimming in a river.
+[[[[Hypothesis]]]]: The puppies are setting on the couch.
+--------------------------------------------- Result 194 ---------------------------------------------
+[[1 (99%)]] --> [[0 (100%)]]
+
+[[[[Premise]]]]: Men wearing blue uniforms sit on a bus.
+[[[[Hypothesis]]]]: Men sit on the [[bus]].
+
+[[[[Premise]]]]: Men wearing blue uniforms sit on a bus.
+[[[[Hypothesis]]]]: Men sit on the [[mouse]].
+--------------------------------------------- Result 195 ---------------------------------------------
+[[2 (100%)]] --> [[0 (100%)]]
+
+[[[[Premise]]]]: Men wearing blue uniforms sit on a bus.
+[[[[Hypothesis]]]]: Men sit on the [[bus]] going to work,
+
+[[[[Premise]]]]: Men wearing blue uniforms sit on a bus.
+[[[[Hypothesis]]]]: Men sit on the [[mouse]] going to work,
+--------------------------------------------- Result 196 ---------------------------------------------
+[[0 (100%)]] --> [[2 (70%)]]
+
+[[[[Premise]]]]: Men wearing blue uniforms sit on a bus.
+[[[[Hypothesis]]]]: Men [[drive]] the bus into the ocean.
+
+[[[[Premise]]]]: Men wearing blue uniforms sit on a bus.
+[[[[Hypothesis]]]]: Men [[promote]] the bus into the ocean.
+--------------------------------------------- Result 197 ---------------------------------------------
+[[1 (97%)]] --> [[0 (80%)]]
+
+[[[[Premise]]]]: Two men climbing on a wooden scaffold.
+[[[[Hypothesis]]]]: Two people climbing on a [[wooden]] scaffold.
+
+[[[[Premise]]]]: Two men climbing on a wooden scaffold.
+[[[[Hypothesis]]]]: Two people climbing on a [[mahogany]] scaffold.
+--------------------------------------------- Result 198 ---------------------------------------------
+[[0 (100%)]] --> [[1 (58%)]]
+
+[[[[Premise]]]]: Two men climbing on a wooden scaffold.
+[[[[Hypothesis]]]]: Two [[women]] climbing on a wooden scaffold.
+
+[[[[Premise]]]]: Two men climbing on a wooden scaffold.
+[[[[Hypothesis]]]]: Two [[dames]] climbing on a wooden scaffold.
+--------------------------------------------- Result 199 ---------------------------------------------
+[[2 (100%)]] --> [[0 (85%)]]
+
+[[[[Premise]]]]: Two men climbing on a wooden scaffold.
+[[[[Hypothesis]]]]: Two sad men [[climbing]] on a wooden scaffold.
+
+[[[[Premise]]]]: Two men climbing on a wooden scaffold.
+[[[[Hypothesis]]]]: Two sad men [[heaping]] on a wooden scaffold.
+--------------------------------------------- Result 200 ---------------------------------------------
+[[1 (55%)]] --> [[[SKIPPED]]]
+
+[[[[Premise]]]]: A bird is flapping its wings on the water.
+[[[[Hypothesis]]]]: The bird is floating on the water.
+--------------------------------------------- Result 201 ---------------------------------------------
+[[0 (99%)]] --> [[1 (86%)]]
+
+[[[[Premise]]]]: A bird is flapping its wings on the water.
+[[[[Hypothesis]]]]: The bird is flying over the [[trees]].
+
+[[[[Premise]]]]: A bird is flapping its wings on the water.
+[[[[Hypothesis]]]]: The bird is flying over the [[chords]].
+--------------------------------------------- Result 202 ---------------------------------------------
+[[0 (58%)]] --> [[[SKIPPED]]]
+
+[[[[Premise]]]]: A bird is flapping its wings on the water.
+[[[[Hypothesis]]]]: The duck is swimming in the lake.
+--------------------------------------------- Result 203 ---------------------------------------------
+[[0 (48%)]] --> [[[SKIPPED]]]
+
+[[[[Premise]]]]: A young boy wearing a red shirt and jeans stands in the middle of a field and throws a toy plane in the air.
+[[[[Hypothesis]]]]: A young boy is playing in a feild.
+--------------------------------------------- Result 204 ---------------------------------------------
+[[2 (97%)]] --> [[0 (100%)]]
+
+[[[[Premise]]]]: A young boy wearing a red shirt and jeans stands in the middle of a field and throws a toy plane in the air.
+[[[[Hypothesis]]]]: A young boy is playing in the [[field]] because his mother kicked him out of the house.
+
+[[[[Premise]]]]: A young boy wearing a red shirt and jeans stands in the middle of a field and throws a toy plane in the air.
+[[[[Hypothesis]]]]: A young boy is playing in the [[gymnasium]] because his mother kicked him out of the house.
+--------------------------------------------- Result 205 ---------------------------------------------
+[[0 (100%)]] --> [[2 (57%)]]
+
+[[[[Premise]]]]: A young boy wearing a red shirt and jeans stands in the middle of a field and throws a toy plane in the air.
+[[[[Hypothesis]]]]: A [[young]] boy is [[playing]] video [[games]] indoors.
+
+[[[[Premise]]]]: A young boy wearing a red shirt and jeans stands in the middle of a field and throws a toy plane in the air.
+[[[[Hypothesis]]]]: A [[immature]] boy is [[reenacting]] video [[competitions]] indoors.
+--------------------------------------------- Result 206 ---------------------------------------------
+[[2 (100%)]] --> [[0 (100%)]]
+
+[[[[Premise]]]]: Six or seven people are standing on a pier with a table and a pair of glasses in the foreground.
+[[[[Hypothesis]]]]: They are [[going]] fishing.
+
+[[[[Premise]]]]: Six or seven people are standing on a pier with a table and a pair of glasses in the foreground.
+[[[[Hypothesis]]]]: They are [[streaking]] fishing.
+--------------------------------------------- Result 207 ---------------------------------------------
+[[1 (99%)]] --> [[0 (100%)]]
+
+[[[[Premise]]]]: Six or seven people are standing on a pier with a table and a pair of glasses in the foreground.
+[[[[Hypothesis]]]]: Six or seven people are [[standing]] on a pier.
+
+[[[[Premise]]]]: Six or seven people are standing on a pier with a table and a pair of glasses in the foreground.
+[[[[Hypothesis]]]]: Six or seven people are [[beding]] on a pier.
+--------------------------------------------- Result 208 ---------------------------------------------
+[[0 (100%)]] --> [[2 (64%)]]
+
+[[[[Premise]]]]: Six or seven people are standing on a pier with a table and a pair of glasses in the foreground.
+[[[[Hypothesis]]]]: They are in a [[boat]].
+
+[[[[Premise]]]]: Six or seven people are standing on a pier with a table and a pair of glasses in the foreground.
+[[[[Hypothesis]]]]: They are in a [[barque]].
+--------------------------------------------- Result 209 ---------------------------------------------
+[[1 (100%)]] --> [[0 (100%)]]
+
+[[[[Premise]]]]: A person in a red shirt and black pants hunched over.
+[[[[Hypothesis]]]]: A person wears a red [[shirt]].
+
+[[[[Premise]]]]: A person in a red shirt and black pants hunched over.
+[[[[Hypothesis]]]]: A person wears a red [[gown]].
+--------------------------------------------- Result 210 ---------------------------------------------
+[[2 (100%)]] --> [[0 (99%)]]
+
+[[[[Premise]]]]: A person in a red shirt and black pants hunched over.
+[[[[Hypothesis]]]]: The [[person]] is a woman.
+
+[[[[Premise]]]]: A person in a red shirt and black pants hunched over.
+[[[[Hypothesis]]]]: The [[ape]] is a woman.
+--------------------------------------------- Result 211 ---------------------------------------------
+[[0 (100%)]] --> [[2 (88%)]]
+
+[[[[Premise]]]]: A person in a red shirt and black pants hunched over.
+[[[[Hypothesis]]]]: The person is wearing a [[green]] shirt.
+
+[[[[Premise]]]]: A person in a red shirt and black pants hunched over.
+[[[[Hypothesis]]]]: The person is wearing a [[immature]] shirt.
+--------------------------------------------- Result 212 ---------------------------------------------
+[[0 (59%)]] --> [[2 (99%)]]
+
+[[[[Premise]]]]: This child is on the library steps.
+[[[[Hypothesis]]]]: The [[child]] is on the school steps.
+
+[[[[Premise]]]]: This child is on the library steps.
+[[[[Hypothesis]]]]: The [[grandson]] is on the school steps.
+--------------------------------------------- Result 213 ---------------------------------------------
+[[1 (99%)]] --> [[0 (100%)]]
+
+[[[[Premise]]]]: This child is on the library steps.
+[[[[Hypothesis]]]]: The child is on the [[steps]].
+
+[[[[Premise]]]]: This child is on the library steps.
+[[[[Hypothesis]]]]: The child is on the [[hikes]].
+--------------------------------------------- Result 214 ---------------------------------------------
+[[1 (97%)]] --> [[[SKIPPED]]]
+
+[[[[Premise]]]]: This child is on the library steps.
+[[[[Hypothesis]]]]: The child is on the steps inside the library.
+--------------------------------------------- Result 215 ---------------------------------------------
+[[2 (93%)]] --> [[[FAILED]]]
+
+[[[[Premise]]]]: Bruce Springsteen, with one arm outstretched, is singing in the spotlight in a dark concert hall.
+[[[[Hypothesis]]]]: Bruce Springsteen is from Florida.
+--------------------------------------------- Result 216 ---------------------------------------------
+[[1 (97%)]] --> [[0 (99%)]]
+
+[[[[Premise]]]]: The tattooed basketball player is about to dunk the ball.
+[[[[Hypothesis]]]]: The person is [[playing]] basketball.
+
+[[[[Premise]]]]: The tattooed basketball player is about to dunk the ball.
+[[[[Hypothesis]]]]: The person is [[singing]] basketball.
+--------------------------------------------- Result 217 ---------------------------------------------
+[[2 (99%)]] --> [[0 (100%)]]
+
+[[[[Premise]]]]: The tattooed basketball player is about to dunk the ball.
+[[[[Hypothesis]]]]: The [[player]] has a tattoo that says mother.
+
+[[[[Premise]]]]: The tattooed basketball player is about to dunk the ball.
+[[[[Hypothesis]]]]: The [[violinist]] has a tattoo that says mother.
+--------------------------------------------- Result 218 ---------------------------------------------
+[[1 (81%)]] --> [[0 (100%)]]
+
+[[[[Premise]]]]: a boy in a red hooded top is smiling whilst looking away from his reflection.
+[[[[Hypothesis]]]]: A boy in a red hood is [[happy]].
+
+[[[[Premise]]]]: a boy in a red hooded top is smiling whilst looking away from his reflection.
+[[[[Hypothesis]]]]: A boy in a red hood is [[bittersweet]].
+--------------------------------------------- Result 219 ---------------------------------------------
+[[1 (64%)]] --> [[[SKIPPED]]]
+
+[[[[Premise]]]]: a boy in a red hooded top is smiling whilst looking away from his reflection.
+[[[[Hypothesis]]]]: The boy doesn't want to see his reflection.
+--------------------------------------------- Result 220 ---------------------------------------------
+[[0 (100%)]] --> [[2 (95%)]]
+
+[[[[Premise]]]]: a boy in a red hooded top is smiling whilst looking away from his reflection.
+[[[[Hypothesis]]]]: The boy is [[upset]].
+
+[[[[Premise]]]]: a boy in a red hooded top is smiling whilst looking away from his reflection.
+[[[[Hypothesis]]]]: The boy is [[stressful]].
+--------------------------------------------- Result 221 ---------------------------------------------
+[[1 (99%)]] --> [[0 (100%)]]
+
+[[[[Premise]]]]: A man wearing a gray ball cap walks next to a redheaded woman wearing a long-sleeved blue jean shirt.
+[[[[Hypothesis]]]]: the man is wearing a [[gray]] cap.
+
+[[[[Premise]]]]: A man wearing a gray ball cap walks next to a redheaded woman wearing a long-sleeved blue jean shirt.
+[[[[Hypothesis]]]]: the man is wearing a [[grizzly]] cap.
+--------------------------------------------- Result 222 ---------------------------------------------
+[[0 (100%)]] --> [[2 (99%)]]
+
+[[[[Premise]]]]: A man wearing a gray ball cap walks next to a redheaded woman wearing a long-sleeved blue jean shirt.
+[[[[Hypothesis]]]]: The man is wearing a [[blue]] cap.
+
+[[[[Premise]]]]: A man wearing a gray ball cap walks next to a redheaded woman wearing a long-sleeved blue jean shirt.
+[[[[Hypothesis]]]]: The man is wearing a [[sexy]] cap.
+--------------------------------------------- Result 223 ---------------------------------------------
+[[2 (98%)]] --> [[0 (100%)]]
+
+[[[[Premise]]]]: A man wearing a gray ball cap walks next to a redheaded woman wearing a long-sleeved blue jean shirt.
+[[[[Hypothesis]]]]: The man is [[cold]].
+
+[[[[Premise]]]]: A man wearing a gray ball cap walks next to a redheaded woman wearing a long-sleeved blue jean shirt.
+[[[[Hypothesis]]]]: The man is [[emotionless]].
+--------------------------------------------- Result 224 ---------------------------------------------
+[[2 (100%)]] --> [[0 (100%)]]
+
+[[[[Premise]]]]: An old man in a baseball hat and an old woman in a jean jacket are standing outside, but are covered mostly in shadow.
+[[[[Hypothesis]]]]: An old woman has a [[light]] jean jacket.
+
+[[[[Premise]]]]: An old man in a baseball hat and an old woman in a jean jacket are standing outside, but are covered mostly in shadow.
+[[[[Hypothesis]]]]: An old woman has a [[ablaze]] jean jacket.
+--------------------------------------------- Result 225 ---------------------------------------------
+[[0 (100%)]] --> [[[FAILED]]]
+
+[[[[Premise]]]]: a group of people dancing together.
+[[[[Hypothesis]]]]: No one is dancing.
+--------------------------------------------- Result 226 ---------------------------------------------
+[[0 (100%)]] --> [[[FAILED]]]
+
+[[[[Premise]]]]: The tattooed basketball player is about to dunk the ball.
+[[[[Hypothesis]]]]: The man is playing football..
+Number of successful attacks: 183
+Number of failed attacks: 17
+Number of skipped attacks: 26
+Original accuracy: 88.5%
+Accuracy under attack: 7.52%
+Attack success rate: 91.5%
+Average perturbed word %: 6.53%
+Average num. words per input: 21.12
+Avg num queries: 500.98

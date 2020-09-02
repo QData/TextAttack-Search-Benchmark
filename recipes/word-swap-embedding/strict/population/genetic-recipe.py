@@ -10,7 +10,7 @@ from constraint import CONSTRAINTS
 
 def Attack(model):
     goal_function = textattack.goal_functions.UntargetedClassification(model)
-    search_method = textattack.search_methods.GeneticAlgorithm(pop_size=60, max_iters=20)
+    search_method = textattack.search_methods.AlzantotGeneticAlgorithm(pop_size=60, max_iters=20)
     transformation = TRANSFORMATION
     constraints = CONSTRAINTS
     return textattack.shared.Attack(

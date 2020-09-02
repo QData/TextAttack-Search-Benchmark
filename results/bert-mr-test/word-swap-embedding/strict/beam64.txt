@@ -93,19 +93,19 @@ the story gives ample opportunity for large-scale action and suspense , which di
 
 this is a fascinating film because there is no clear-cut hero and no all-out villain .
 --------------------------------------------- Result 23 ---------------------------------------------
-[[1 (100%)]] --> [[0 (75%)]]
+[[1 (100%)]] --> [[[FAILED]]]
 
-a dreadful day in irish history is given [[passionate]] , if somewhat [[flawed]] , treatment .
-
-a dreadful day in irish history is given [[ardent]] , if somewhat [[imperfect]] , treatment .
+a powerful , chilling , and affecting study of one man's dying fall .
 --------------------------------------------- Result 24 ---------------------------------------------
 [[0 (86%)]] --> [[[SKIPPED]]]
 
 . . . a good film that must have baffled the folks in the marketing department .
 --------------------------------------------- Result 25 ---------------------------------------------
-[[1 (100%)]] --> [[[FAILED]]]
+[[1 (100%)]] --> [[0 (75%)]]
 
-a powerful , chilling , and affecting study of one man's dying fall .
+a dreadful day in irish history is given [[passionate]] , if somewhat [[flawed]] , treatment .
+
+a dreadful day in irish history is given [[ardent]] , if somewhat [[imperfect]] , treatment .
 --------------------------------------------- Result 26 ---------------------------------------------
 [[0 (100%)]] --> [[[SKIPPED]]]
 
@@ -131,11 +131,11 @@ the performances are [[spotless]] , with roussillon providing comic relief .
 --------------------------------------------- Result 31 ---------------------------------------------
 [[1 (100%)]] --> [[[FAILED]]]
 
-kinnear . . . gives his best screen performance with an oddly winning portrayal of one of life's ultimate losers .
+what's so striking about jolie's performance is that she never lets her character become a caricature -- not even with that radioactive hair .
 --------------------------------------------- Result 32 ---------------------------------------------
 [[1 (100%)]] --> [[[FAILED]]]
 
-what's so striking about jolie's performance is that she never lets her character become a caricature -- not even with that radioactive hair .
+kinnear . . . gives his best screen performance with an oddly winning portrayal of one of life's ultimate losers .
 --------------------------------------------- Result 33 ---------------------------------------------
 [[1 (99%)]] --> [[[FAILED]]]
 
@@ -215,15 +215,15 @@ works because we're never sure if ohlinger's on the level or merely a dying , de
 --------------------------------------------- Result 50 ---------------------------------------------
 [[1 (100%)]] --> [[[FAILED]]]
 
-its use of the thriller form to examine the labyrinthine ways in which people's lives cross and change , buffeted by events seemingly out of their control , is intriguing , provocative stuff .
+a heady , biting , be-bop ride through nighttime manhattan , a loquacious videologue of the modern male and the lengths to which he'll go to weave a protective cocoon around his own ego .
 --------------------------------------------- Result 51 ---------------------------------------------
 [[1 (100%)]] --> [[[FAILED]]]
 
-drawing on an irresistible , languid romanticism , byler reveals the ways in which a sultry evening or a beer-fueled afternoon in the sun can inspire even the most retiring heart to venture forth .
+its use of the thriller form to examine the labyrinthine ways in which people's lives cross and change , buffeted by events seemingly out of their control , is intriguing , provocative stuff .
 --------------------------------------------- Result 52 ---------------------------------------------
 [[1 (100%)]] --> [[[FAILED]]]
 
-a heady , biting , be-bop ride through nighttime manhattan , a loquacious videologue of the modern male and the lengths to which he'll go to weave a protective cocoon around his own ego .
+drawing on an irresistible , languid romanticism , byler reveals the ways in which a sultry evening or a beer-fueled afternoon in the sun can inspire even the most retiring heart to venture forth .
 --------------------------------------------- Result 53 ---------------------------------------------
 [[1 (100%)]] --> [[[FAILED]]]
 
@@ -301,11 +301,11 @@ despite its faults , gangs excels in spectacle and pacing .
 --------------------------------------------- Result 68 ---------------------------------------------
 [[1 (100%)]] --> [[[FAILED]]]
 
-a tightly directed , highly professional film that's old-fashioned in all the best possible ways .
+a journey spanning nearly three decades of bittersweet camaraderie and history , in which we feel that we truly know what makes holly and marina tick , and our hearts go out to them as both continue to negotiate their imperfect , love-hate relationship .
 --------------------------------------------- Result 69 ---------------------------------------------
 [[1 (100%)]] --> [[[FAILED]]]
 
-the piano teacher is not an easy film . it forces you to watch people doing unpleasant things to each other and themselves , and it maintains a cool distance from its material that is deliberately unsettling .
+a tightly directed , highly professional film that's old-fashioned in all the best possible ways .
 --------------------------------------------- Result 70 ---------------------------------------------
 [[1 (100%)]] --> [[[FAILED]]]
 
@@ -317,11 +317,11 @@ enormously enjoyable , high-adrenaline documentary .
 --------------------------------------------- Result 72 ---------------------------------------------
 [[1 (100%)]] --> [[[FAILED]]]
 
-a journey spanning nearly three decades of bittersweet camaraderie and history , in which we feel that we truly know what makes holly and marina tick , and our hearts go out to them as both continue to negotiate their imperfect , love-hate relationship .
+buy is an accomplished actress , and this is a big , juicy role .
 --------------------------------------------- Result 73 ---------------------------------------------
 [[1 (100%)]] --> [[[FAILED]]]
 
-buy is an accomplished actress , and this is a big , juicy role .
+the piano teacher is not an easy film . it forces you to watch people doing unpleasant things to each other and themselves , and it maintains a cool distance from its material that is deliberately unsettling .
 --------------------------------------------- Result 74 ---------------------------------------------
 [[1 (100%)]] --> [[[FAILED]]]
 
@@ -375,19 +375,19 @@ michel piccoli's moving performance is this films reason for being .
 
 a high-spirited buddy movie about the reunion of berlin anarchists who face arrest 15 years after their crime .
 --------------------------------------------- Result 87 ---------------------------------------------
-[[1 (98%)]] --> [[0 (99%)]]
+[[1 (100%)]] --> [[[FAILED]]]
 
-about the best thing you could say about narc is that it's a rock-solid little [[genre]] [[picture]] . whether you like it or not is basically a matter of taste .
-
-about the best thing you could say about narc is that it's a rock-solid little [[genus]] [[photographs]] . whether you like it or not is basically a matter of taste .
+a much more successful translation than its most famous previous film adaptation , writer-director anthony friedman's similarly updated 1970 british production .
 --------------------------------------------- Result 88 ---------------------------------------------
 [[0 (98%)]] --> [[[SKIPPED]]]
 
 an involving , inspirational drama that sometimes falls prey to its sob-story trappings .
 --------------------------------------------- Result 89 ---------------------------------------------
-[[1 (100%)]] --> [[[FAILED]]]
+[[1 (98%)]] --> [[0 (99%)]]
 
-a much more successful translation than its most famous previous film adaptation , writer-director anthony friedman's similarly updated 1970 british production .
+about the best thing you could say about narc is that it's a rock-solid little [[genre]] [[picture]] . whether you like it or not is basically a matter of taste .
+
+about the best thing you could say about narc is that it's a rock-solid little [[genus]] [[photographs]] . whether you like it or not is basically a matter of taste .
 --------------------------------------------- Result 90 ---------------------------------------------
 [[1 (100%)]] --> [[[FAILED]]]
 
@@ -527,9 +527,11 @@ ana's journey is not a stereotypical one of self-discovery , as she's already co
 
 cockettes has the glorious , gaudy benefit of much stock footage of those days , featuring all manner of drag queen , bearded lady and lactating hippie .
 --------------------------------------------- Result 123 ---------------------------------------------
-[[1 (100%)]] --> [[[FAILED]]]
+[[1 (100%)]] --> [[0 (96%)]]
 
-there's something poignant about an artist of 90-plus years taking the effort to share his impressions of life and loss and time and art with us .
+a rollicking ride , with jaw-dropping action [[sequences]] , [[striking]] villains , a [[gorgeous]] color palette , [[astounding]] technology , [[stirring]] music and a boffo last hour that leads up to a strangely sinister happy [[ending]] .
+
+a rollicking ride , with jaw-dropping action [[sequenced]] , [[staggering]] villains , a [[wondrous]] color palette , [[staggering]] technology , [[agitating]] music and a boffo last hour that leads up to a strangely sinister happy [[terminate]] .
 --------------------------------------------- Result 124 ---------------------------------------------
 [[1 (100%)]] --> [[[FAILED]]]
 
@@ -547,15 +549,13 @@ one funny popcorn flick .
 
 this new zealand coming-of-age movie isn't really about anything . when it's this rich and luscious , who cares ?
 --------------------------------------------- Result 128 ---------------------------------------------
-[[1 (100%)]] --> [[0 (96%)]]
+[[1 (100%)]] --> [[[FAILED]]]
 
-a rollicking ride , with jaw-dropping action [[sequences]] , [[striking]] villains , a [[gorgeous]] color palette , [[astounding]] technology , [[stirring]] music and a boffo last hour that leads up to a strangely sinister happy [[ending]] .
-
-a rollicking ride , with jaw-dropping action [[sequenced]] , [[staggering]] villains , a [[wondrous]] color palette , [[staggering]] technology , [[agitating]] music and a boffo last hour that leads up to a strangely sinister happy [[terminate]] .
+there's something poignant about an artist of 90-plus years taking the effort to share his impressions of life and loss and time and art with us .
 --------------------------------------------- Result 129 ---------------------------------------------
 [[1 (100%)]] --> [[[FAILED]]]
 
-tully is worth a look for its true-to-life characters , its sensitive acting , its unadorned view of rural life and the subtle direction of first-timer hilary birmingham .
+this gorgeous epic is guaranteed to lift the spirits of the whole family .
 --------------------------------------------- Result 130 ---------------------------------------------
 [[1 (71%)]] --> [[0 (100%)]]
 
@@ -573,11 +573,11 @@ if you're in the right b-movie frame of mind , it may just scare the pants off y
 --------------------------------------------- Result 133 ---------------------------------------------
 [[1 (100%)]] --> [[[FAILED]]]
 
-this gorgeous epic is guaranteed to lift the spirits of the whole family .
+a movie of riveting power and sadness .
 --------------------------------------------- Result 134 ---------------------------------------------
 [[1 (100%)]] --> [[[FAILED]]]
 
-a movie of riveting power and sadness .
+in addition to scoring high for originality of plot -- putting together familiar themes of family , forgiveness and love in a new way -- lilo & stitch has a number of other assets to commend it to movie audiences both innocent and jaded .
 --------------------------------------------- Result 135 ---------------------------------------------
 [[1 (100%)]] --> [[[FAILED]]]
 
@@ -595,13 +595,13 @@ director roger kumble offers just enough sweet and traditional romantic comedy t
 
 ludicrous , but director carl franklin adds enough flourishes and freak-outs to make it entertaining .
 --------------------------------------------- Result 139 ---------------------------------------------
-[[1 (100%)]] --> [[[FAILED]]]
-
-in addition to scoring high for originality of plot -- putting together familiar themes of family , forgiveness and love in a new way -- lilo & stitch has a number of other assets to commend it to movie audiences both innocent and jaded .
---------------------------------------------- Result 140 ---------------------------------------------
 [[1 (99%)]] --> [[[FAILED]]]
 
 [the film] tackles the topic of relationships in such a straightforward , emotionally honest manner that by the end , it's impossible to ascertain whether the film is , at its core , deeply pessimistic or quietly hopeful .
+--------------------------------------------- Result 140 ---------------------------------------------
+[[1 (100%)]] --> [[[FAILED]]]
+
+tully is worth a look for its true-to-life characters , its sensitive acting , its unadorned view of rural life and the subtle direction of first-timer hilary birmingham .
 --------------------------------------------- Result 141 ---------------------------------------------
 [[1 (100%)]] --> [[[FAILED]]]
 
@@ -625,15 +625,15 @@ finely crafted , finely written , exquisitely performed
 
 ramsay and morton fill this character study with poetic force and buoyant feeling .
 --------------------------------------------- Result 146 ---------------------------------------------
+[[1 (100%)]] --> [[[FAILED]]]
+
+this submarine drama earns the right to be favorably compared to das boot .
+--------------------------------------------- Result 147 ---------------------------------------------
 [[1 (100%)]] --> [[0 (75%)]]
 
 spielberg's [[picture]] is [[smarter]] and subtler than [total [[recall]] and blade runner] , although its plot may [[prove]] too [[convoluted]] for fun-seeking summer audiences .
 
 spielberg's [[photograph]] is [[brainy]] and subtler than [total [[recalls]] and blade runner] , although its plot may [[proves]] too [[tortuous]] for fun-seeking summer audiences .
---------------------------------------------- Result 147 ---------------------------------------------
-[[1 (100%)]] --> [[[FAILED]]]
-
-this submarine drama earns the right to be favorably compared to das boot .
 --------------------------------------------- Result 148 ---------------------------------------------
 [[1 (100%)]] --> [[[FAILED]]]
 
@@ -641,71 +641,71 @@ a well-rounded tribute to a man whose achievements -- and complexities -- reache
 --------------------------------------------- Result 149 ---------------------------------------------
 [[1 (99%)]] --> [[[FAILED]]]
 
-it's got all the familiar bruckheimer elements , and schumacher does probably as good a job as anyone at bringing off the hopkins/rock collision of acting styles and onscreen personas .
+there's a great deal of corny dialogue and preposterous moments . and yet , it still works .
 --------------------------------------------- Result 150 ---------------------------------------------
-[[1 (100%)]] --> [[[FAILED]]]
-
-claude chabrol's camera has a way of gently swaying back and forth as it cradles its characters , veiling tension beneath otherwise tender movements .
---------------------------------------------- Result 151 ---------------------------------------------
 [[1 (99%)]] --> [[[FAILED]]]
 
-there's a great deal of corny dialogue and preposterous moments . and yet , it still works .
---------------------------------------------- Result 152 ---------------------------------------------
+it's got all the familiar bruckheimer elements , and schumacher does probably as good a job as anyone at bringing off the hopkins/rock collision of acting styles and onscreen personas .
+--------------------------------------------- Result 151 ---------------------------------------------
 [[1 (100%)]] --> [[[FAILED]]]
 
 the film was immensely enjoyable thanks to great performances by both steve buscemi and rosario dawson . . .
---------------------------------------------- Result 153 ---------------------------------------------
-[[0 (100%)]] --> [[[SKIPPED]]]
-
-meant to reduce blake's philosophy into a tragic coming-of-age saga punctuated by bursts of animator todd mcfarlane's superhero dystopia .
---------------------------------------------- Result 154 ---------------------------------------------
+--------------------------------------------- Result 152 ---------------------------------------------
 [[1 (100%)]] --> [[[FAILED]]]
 
-this is a shrewd and effective film from a director who understands how to create and sustain a mood .
---------------------------------------------- Result 155 ---------------------------------------------
+a joyous occasion
+--------------------------------------------- Result 153 ---------------------------------------------
 [[1 (100%)]] --> [[0 (82%)]]
 
 special p . o . v . camera mounts on bikes , skateboards , and motorcycles provide an [[intense]] experience when splashed across the [[immense]] imax screen .
 
 special p . o . v . camera mounts on bikes , skateboards , and motorcycles provide an [[vehement]] experience when splashed across the [[gargantuan]] imax screen .
---------------------------------------------- Result 156 ---------------------------------------------
+--------------------------------------------- Result 154 ---------------------------------------------
 [[1 (100%)]] --> [[[FAILED]]]
 
-like brosnan's performance , evelyn comes from the heart .
---------------------------------------------- Result 157 ---------------------------------------------
+claude chabrol's camera has a way of gently swaying back and forth as it cradles its characters , veiling tension beneath otherwise tender movements .
+--------------------------------------------- Result 155 ---------------------------------------------
+[[0 (100%)]] --> [[[SKIPPED]]]
+
+meant to reduce blake's philosophy into a tragic coming-of-age saga punctuated by bursts of animator todd mcfarlane's superhero dystopia .
+--------------------------------------------- Result 156 ---------------------------------------------
 [[1 (100%)]] --> [[0 (73%)]]
 
 assayas' ambitious , [[sometimes]] [[beautiful]] adaptation of jacques chardonne's novel .
 
 assayas' ambitious , [[occasionally]] [[lovely]] adaptation of jacques chardonne's novel .
---------------------------------------------- Result 158 ---------------------------------------------
-[[1 (100%)]] --> [[[FAILED]]]
-
-a joyous occasion
---------------------------------------------- Result 159 ---------------------------------------------
-[[1 (100%)]] --> [[[FAILED]]]
-
-as ex-marine walter , who may or may not have shot kennedy , actor raymond j . barry is perfectly creepy and believable .
---------------------------------------------- Result 160 ---------------------------------------------
+--------------------------------------------- Result 157 ---------------------------------------------
 [[1 (100%)]] --> [[[FAILED]]]
 
 mike white's deft combination of serious subject matter and dark , funny humor make " " the good girl " a film worth watching .
---------------------------------------------- Result 161 ---------------------------------------------
+--------------------------------------------- Result 158 ---------------------------------------------
 [[1 (100%)]] --> [[[FAILED]]]
 
-pete's screenplay manages to find that real natural , even-flowing tone that few movies are able to accomplish .
---------------------------------------------- Result 162 ---------------------------------------------
+as ex-marine walter , who may or may not have shot kennedy , actor raymond j . barry is perfectly creepy and believable .
+--------------------------------------------- Result 159 ---------------------------------------------
+[[1 (100%)]] --> [[[FAILED]]]
+
+this is a shrewd and effective film from a director who understands how to create and sustain a mood .
+--------------------------------------------- Result 160 ---------------------------------------------
+[[1 (100%)]] --> [[[FAILED]]]
+
+like brosnan's performance , evelyn comes from the heart .
+--------------------------------------------- Result 161 ---------------------------------------------
 [[1 (99%)]] --> [[0 (61%)]]
 
 those who don't entirely 'get' godard's distinctive discourse will still come away with a [[sense]] of his [[reserved]] but existential poignancy .
 
 those who don't entirely 'get' godard's distinctive discourse will still come away with a [[sensing]] of his [[booked]] but existential poignancy .
---------------------------------------------- Result 163 ---------------------------------------------
+--------------------------------------------- Result 162 ---------------------------------------------
 [[1 (99%)]] --> [[0 (100%)]]
 
 its spirit of iconoclastic abandon -- however canned -- makes for unexpectedly [[giddy]] viewing .
 
 its spirit of iconoclastic abandon -- however canned -- makes for unexpectedly [[lightheaded]] viewing .
+--------------------------------------------- Result 163 ---------------------------------------------
+[[1 (100%)]] --> [[[FAILED]]]
+
+pete's screenplay manages to find that real natural , even-flowing tone that few movies are able to accomplish .
 --------------------------------------------- Result 164 ---------------------------------------------
 [[1 (100%)]] --> [[[FAILED]]]
 
@@ -717,7 +717,7 @@ whether our action-and-popcorn obsessed culture will embrace this engaging and l
 --------------------------------------------- Result 166 ---------------------------------------------
 [[1 (100%)]] --> [[[FAILED]]]
 
-it uses some of the figures from the real-life story to portray themselves in the film . the result is a powerful , naturally dramatic piece of low-budget filmmaking .
+whether or not ram dass proves as clear and reliable an authority on that as he was about inner consciousness , fierce grace reassures us that he will once again be an honest and loving one .
 --------------------------------------------- Result 167 ---------------------------------------------
 [[1 (100%)]] --> [[[FAILED]]]
 
@@ -729,7 +729,7 @@ spare but quietly effective retelling .
 --------------------------------------------- Result 169 ---------------------------------------------
 [[1 (100%)]] --> [[[FAILED]]]
 
-whether or not ram dass proves as clear and reliable an authority on that as he was about inner consciousness , fierce grace reassures us that he will once again be an honest and loving one .
+it uses some of the figures from the real-life story to portray themselves in the film . the result is a powerful , naturally dramatic piece of low-budget filmmaking .
 --------------------------------------------- Result 170 ---------------------------------------------
 [[1 (98%)]] --> [[0 (99%)]]
 
@@ -751,11 +751,9 @@ there are so few [[films]] about the plight of american indians in modern americ
 
 there are so few [[filmmaking]] about the plight of american indians in modern america that skins comes as a welcome , if downbeat , missive from a forgotten front .
 --------------------------------------------- Result 174 ---------------------------------------------
-[[1 (100%)]] --> [[0 (97%)]]
+[[1 (99%)]] --> [[[FAILED]]]
 
-[shyamalan] continues to cut a swathe through mainstream hollywood , while [[retaining]] an integrity and [[refusing]] to [[compromise]] his vision .
-
-[shyamalan] continues to cut a swathe through mainstream hollywood , while [[conserve]] an integrity and [[rejects]] to [[compromised]] his vision .
+like many western action films , this thriller is too loud and thoroughly overbearing , but its heartfelt concern about north korea's recent past and south korea's future adds a much needed moral weight .
 --------------------------------------------- Result 175 ---------------------------------------------
 [[1 (100%)]] --> [[[FAILED]]]
 
@@ -769,21 +767,23 @@ what begins as a film in the tradition of the graduate quickly switches into som
 
 much smarter and more attentive than it first sets out to be .
 --------------------------------------------- Result 178 ---------------------------------------------
-[[1 (100%)]] --> [[[FAILED]]]
+[[1 (100%)]] --> [[0 (97%)]]
 
-the story is smart and entirely charming in intent and execution .
+[shyamalan] continues to cut a swathe through mainstream hollywood , while [[retaining]] an integrity and [[refusing]] to [[compromise]] his vision .
+
+[shyamalan] continues to cut a swathe through mainstream hollywood , while [[conserve]] an integrity and [[rejects]] to [[compromised]] his vision .
 --------------------------------------------- Result 179 ---------------------------------------------
 [[1 (100%)]] --> [[[FAILED]]]
 
-a movie of technical skill and rare depth of intellect and feeling .
+the early and middle passages are surprising in how much they engage and even touch us . this is not a classical dramatic animated feature , nor a hip , contemporary , in-jokey one . it's sort of in-between , and it works .
 --------------------------------------------- Result 180 ---------------------------------------------
 [[1 (100%)]] --> [[[FAILED]]]
 
 represents a worthy departure from the culture clash comedies that have marked an emerging indian american cinema .
 --------------------------------------------- Result 181 ---------------------------------------------
-[[1 (99%)]] --> [[[FAILED]]]
+[[1 (100%)]] --> [[[FAILED]]]
 
-like many western action films , this thriller is too loud and thoroughly overbearing , but its heartfelt concern about north korea's recent past and south korea's future adds a much needed moral weight .
+a movie of technical skill and rare depth of intellect and feeling .
 --------------------------------------------- Result 182 ---------------------------------------------
 [[1 (97%)]] --> [[0 (85%)]]
 
@@ -793,7 +793,7 @@ doesn't do more than [[expanded]] a tv show to movie length . however , it's ple
 --------------------------------------------- Result 183 ---------------------------------------------
 [[1 (100%)]] --> [[[FAILED]]]
 
-the early and middle passages are surprising in how much they engage and even touch us . this is not a classical dramatic animated feature , nor a hip , contemporary , in-jokey one . it's sort of in-between , and it works .
+the story is smart and entirely charming in intent and execution .
 --------------------------------------------- Result 184 ---------------------------------------------
 [[0 (100%)]] --> [[[SKIPPED]]]
 
@@ -811,21 +811,21 @@ it's about issues most adults have to face in marriage and i [[thought]] that's 
 --------------------------------------------- Result 187 ---------------------------------------------
 [[1 (100%)]] --> [[[FAILED]]]
 
-if you're looking for an intelligent movie in which you can release your pent up anger , enough is just the ticket you need .
+its story about a young chinese woman , ah na , who has come to new york city to replace past tragedy with the american dream is one that any art-house moviegoer is likely to find compelling .
 --------------------------------------------- Result 188 ---------------------------------------------
 [[1 (100%)]] --> [[[FAILED]]]
 
-its story about a young chinese woman , ah na , who has come to new york city to replace past tragedy with the american dream is one that any art-house moviegoer is likely to find compelling .
---------------------------------------------- Result 189 ---------------------------------------------
-[[1 (100%)]] --> [[[FAILED]]]
-
 enriched by a strong and unforced supporting cast .
---------------------------------------------- Result 190 ---------------------------------------------
+--------------------------------------------- Result 189 ---------------------------------------------
 [[1 (100%)]] --> [[0 (98%)]]
 
 writer/ director m . night shyamalan's ability to pull together easily accessible stories that resonate with profundity is [[undeniable]] .
 
 writer/ director m . night shyamalan's ability to pull together easily accessible stories that resonate with profundity is [[incontrovertible]] .
+--------------------------------------------- Result 190 ---------------------------------------------
+[[1 (100%)]] --> [[[FAILED]]]
+
+if you're looking for an intelligent movie in which you can release your pent up anger , enough is just the ticket you need .
 --------------------------------------------- Result 191 ---------------------------------------------
 [[1 (100%)]] --> [[[FAILED]]]
 
@@ -839,11 +839,11 @@ not a strike against yang's similarly themed yi yi , but i [[unearthed]] what ti
 --------------------------------------------- Result 193 ---------------------------------------------
 [[1 (100%)]] --> [[[FAILED]]]
 
-if you can keep your eyes open amid all the blood and gore , you'll see del toro has brought unexpected gravity to blade ii .
+elegantly produced and expressively performed , the six musical numbers crystallize key plot moments into minutely detailed wonders of dreamlike ecstasy .
 --------------------------------------------- Result 194 ---------------------------------------------
 [[1 (100%)]] --> [[[FAILED]]]
 
-elegantly produced and expressively performed , the six musical numbers crystallize key plot moments into minutely detailed wonders of dreamlike ecstasy .
+if you can keep your eyes open amid all the blood and gore , you'll see del toro has brought unexpected gravity to blade ii .
 --------------------------------------------- Result 195 ---------------------------------------------
 [[0 (100%)]] --> [[[SKIPPED]]]
 
@@ -865,15 +865,15 @@ the film's desire to be liked sometimes undermines the possibility for an explor
 
 . . . a quietly introspective portrait of the self-esteem of employment and the shame of losing a job . . .
 --------------------------------------------- Result 200 ---------------------------------------------
-[[1 (100%)]] --> [[[FAILED]]]
-
-a charming and funny story of clashing cultures and a clashing mother/daughter relationship .
---------------------------------------------- Result 201 ---------------------------------------------
 [[1 (100%)]] --> [[0 (52%)]]
 
 affable if not [[timeless]] , like mike raises some worthwhile [[themes]] while [[delivering]] a wholesome fantasy for [[kids]] .
 
 affable if not [[eternal]] , like mike raises some worthwhile [[topics]] while [[providing]] a wholesome fantasy for [[infantile]] .
+--------------------------------------------- Result 201 ---------------------------------------------
+[[1 (100%)]] --> [[[FAILED]]]
+
+a charming and funny story of clashing cultures and a clashing mother/daughter relationship .
 --------------------------------------------- Result 202 ---------------------------------------------
 [[1 (100%)]] --> [[[FAILED]]]
 
@@ -979,13 +979,13 @@ there is a real subject here , and it is handled with intelligence and care .
 
 jason patric and ray liotta make for one splendidly cast pair .
 --------------------------------------------- Result 226 ---------------------------------------------
-[[1 (100%)]] --> [[[FAILED]]]
-
-never lets go your emotions , taking them to surprising highs , sorrowful lows and hidden impulsive niches . . . gorgeous , passionate , and at times uncommonly moving .
---------------------------------------------- Result 227 ---------------------------------------------
 [[1 (99%)]] --> [[[FAILED]]]
 
 jolie gives it that extra little something that makes it worth checking out at theaters , especially if you're in the mood for something more comfortable than challenging .
+--------------------------------------------- Result 227 ---------------------------------------------
+[[1 (100%)]] --> [[[FAILED]]]
+
+never lets go your emotions , taking them to surprising highs , sorrowful lows and hidden impulsive niches . . . gorgeous , passionate , and at times uncommonly moving .
 --------------------------------------------- Result 228 ---------------------------------------------
 [[1 (99%)]] --> [[[FAILED]]]
 
@@ -1001,7 +1001,7 @@ starts slowly , but adrien brody  in the title role  helps make the film's c
 --------------------------------------------- Result 231 ---------------------------------------------
 [[1 (100%)]] --> [[[FAILED]]]
 
-noyce creates a film of near-hypnotic physical beauty even as he tells a story as horrifying as any in the heart-breakingly extensive annals of white-on-black racism .
+a film of delicate interpersonal dances . caine makes us watch as his character awakens to the notion that to be human is eventually to have to choose . it's a sight to behold .
 --------------------------------------------- Result 232 ---------------------------------------------
 [[1 (100%)]] --> [[[FAILED]]]
 
@@ -1009,7 +1009,7 @@ this is one of mr . chabrol's subtlest works , but also one of his most uncanny 
 --------------------------------------------- Result 233 ---------------------------------------------
 [[1 (100%)]] --> [[[FAILED]]]
 
-a film of delicate interpersonal dances . caine makes us watch as his character awakens to the notion that to be human is eventually to have to choose . it's a sight to behold .
+noyce creates a film of near-hypnotic physical beauty even as he tells a story as horrifying as any in the heart-breakingly extensive annals of white-on-black racism .
 --------------------------------------------- Result 234 ---------------------------------------------
 [[1 (100%)]] --> [[0 (91%)]]
 
@@ -1115,17 +1115,17 @@ it's a [[steep]] movie about otherwise dull subjects .
 
 it's like rocky and bullwinkle on speed , but that's neither completely enlightening , nor does it catch the intensity of the movie's strangeness .
 --------------------------------------------- Result 255 ---------------------------------------------
-[[1 (99%)]] --> [[[FAILED]]]
+[[1 (100%)]] --> [[[FAILED]]]
 
-twohy knows how to inflate the mundane into the scarifying , and gets full mileage out of the rolling of a stray barrel or the unexpected blast of a phonograph record .
+as action-adventure , this space-based homage to robert louis stevenson's treasure island fires on all plasma conduits .
 --------------------------------------------- Result 256 ---------------------------------------------
 [[1 (100%)]] --> [[[FAILED]]]
 
 a melancholy , emotional film .
 --------------------------------------------- Result 257 ---------------------------------------------
-[[1 (100%)]] --> [[[FAILED]]]
+[[1 (99%)]] --> [[[FAILED]]]
 
-as action-adventure , this space-based homage to robert louis stevenson's treasure island fires on all plasma conduits .
+twohy knows how to inflate the mundane into the scarifying , and gets full mileage out of the rolling of a stray barrel or the unexpected blast of a phonograph record .
 --------------------------------------------- Result 258 ---------------------------------------------
 [[1 (100%)]] --> [[[FAILED]]]
 
@@ -1167,9 +1167,9 @@ a smart and funny , albeit sometimes superficial , cautionary tale of a technolo
 
 bring on the sequel .
 --------------------------------------------- Result 268 ---------------------------------------------
-[[1 (100%)]] --> [[[FAILED]]]
+[[1 (99%)]] --> [[[FAILED]]]
 
-graced with the kind of social texture and realism that would be foreign in american teen comedies .
+gambling and throwing a basketball game for money isn't a new plot -- in fact toback himself used it in black and white . but toback's deranged immediacy makes it seem fresh again .
 --------------------------------------------- Result 269 ---------------------------------------------
 [[0 (60%)]] --> [[[SKIPPED]]]
 
@@ -1177,7 +1177,7 @@ if we sometimes need comforting fantasies about mental illness , we also need mo
 --------------------------------------------- Result 270 ---------------------------------------------
 [[1 (100%)]] --> [[[FAILED]]]
 
-another in a long line of ultra-violent war movies , this one is not quite what it could have been as a film , but the story and theme make up for it .
+graced with the kind of social texture and realism that would be foreign in american teen comedies .
 --------------------------------------------- Result 271 ---------------------------------------------
 [[1 (100%)]] --> [[[FAILED]]]
 
@@ -1187,9 +1187,9 @@ a big-budget/all-star movie as unblinkingly pure as the hours is a distinct rari
 
 . . . certainly an entertaining ride , despite many talky , slow scenes . but something seems to be missing . a sense of real magic , perhaps .
 --------------------------------------------- Result 273 ---------------------------------------------
-[[1 (99%)]] --> [[[FAILED]]]
+[[1 (100%)]] --> [[[FAILED]]]
 
-gambling and throwing a basketball game for money isn't a new plot -- in fact toback himself used it in black and white . but toback's deranged immediacy makes it seem fresh again .
+another in a long line of ultra-violent war movies , this one is not quite what it could have been as a film , but the story and theme make up for it .
 --------------------------------------------- Result 274 ---------------------------------------------
 [[0 (100%)]] --> [[[SKIPPED]]]
 
@@ -1209,9 +1209,11 @@ in the director's cut , the film is not only a love song to the movies but it al
 
 that haynes can both maintain and dismantle the facades that his genre and his character construct is a wonderous accomplishment of veracity and narrative grace .
 --------------------------------------------- Result 278 ---------------------------------------------
-[[1 (100%)]] --> [[[FAILED]]]
+[[1 (87%)]] --> [[0 (53%)]]
 
-the film occasionally tries the viewer's patience with slow pacing and a main character who sometimes defies sympathy , but it ultimately satisfies with its moving story .
+would you laugh if a tuba-playing dwarf rolled down a hill in a [[trash]] can ? do you chuckle at the thought of an ancient librarian whacking a certain part of a man's body ? if you answered [[yes]] , by all means enjoy the [[new]] guy .
+
+would you laugh if a tuba-playing dwarf rolled down a hill in a [[rubbish]] can ? do you chuckle at the thought of an ancient librarian whacking a certain part of a man's body ? if you answered [[yup]] , by all means enjoy the [[newer]] guy .
 --------------------------------------------- Result 279 ---------------------------------------------
 [[0 (100%)]] --> [[[SKIPPED]]]
 
@@ -1225,11 +1227,9 @@ an indispensable peek at the art and the agony of making people laugh .
 
 steadfastly uncinematic but powerfully dramatic .
 --------------------------------------------- Result 282 ---------------------------------------------
-[[1 (87%)]] --> [[0 (53%)]]
+[[1 (100%)]] --> [[[FAILED]]]
 
-would you laugh if a tuba-playing dwarf rolled down a hill in a [[trash]] can ? do you chuckle at the thought of an ancient librarian whacking a certain part of a man's body ? if you answered [[yes]] , by all means enjoy the [[new]] guy .
-
-would you laugh if a tuba-playing dwarf rolled down a hill in a [[rubbish]] can ? do you chuckle at the thought of an ancient librarian whacking a certain part of a man's body ? if you answered [[yup]] , by all means enjoy the [[newer]] guy .
+the film occasionally tries the viewer's patience with slow pacing and a main character who sometimes defies sympathy , but it ultimately satisfies with its moving story .
 --------------------------------------------- Result 283 ---------------------------------------------
 [[0 (100%)]] --> [[[SKIPPED]]]
 
@@ -1241,7 +1241,7 @@ evokes the 19th century with a subtlety that is an object lesson in period filmm
 --------------------------------------------- Result 285 ---------------------------------------------
 [[1 (100%)]] --> [[[FAILED]]]
 
-ya-yas everywhere will forgive the flaws and love the film .
+plunges you into a reality that is , more often then not , difficult and sad , and then , without sentimentalizing it or denying its brutality , transforms that reality into a lyrical and celebratory vision .
 --------------------------------------------- Result 286 ---------------------------------------------
 [[0 (100%)]] --> [[[SKIPPED]]]
 
@@ -1249,7 +1249,7 @@ the film's best trick is the way that it treats conspiracy as a kind of politica
 --------------------------------------------- Result 287 ---------------------------------------------
 [[1 (100%)]] --> [[[FAILED]]]
 
-the artwork is spectacular and unlike most animaton from japan , the characters move with grace and panache .
+ya-yas everywhere will forgive the flaws and love the film .
 --------------------------------------------- Result 288 ---------------------------------------------
 [[0 (75%)]] --> [[[SKIPPED]]]
 
@@ -1261,7 +1261,7 @@ the modern remake of dumas's story is long on narrative and ( too ) short on act
 --------------------------------------------- Result 290 ---------------------------------------------
 [[1 (100%)]] --> [[[FAILED]]]
 
-the engagingly primitive animated special effects contribute to a mood that's sustained through the surprisingly somber conclusion .
+the artwork is spectacular and unlike most animaton from japan , the characters move with grace and panache .
 --------------------------------------------- Result 291 ---------------------------------------------
 [[0 (100%)]] --> [[[SKIPPED]]]
 
@@ -1277,7 +1277,7 @@ it's like an old warner bros . costumer jived with sex -- this could be the movi
 --------------------------------------------- Result 294 ---------------------------------------------
 [[1 (100%)]] --> [[[FAILED]]]
 
-plunges you into a reality that is , more often then not , difficult and sad , and then , without sentimentalizing it or denying its brutality , transforms that reality into a lyrical and celebratory vision .
+the engagingly primitive animated special effects contribute to a mood that's sustained through the surprisingly somber conclusion .
 --------------------------------------------- Result 295 ---------------------------------------------
 [[1 (100%)]] --> [[[FAILED]]]
 
@@ -1311,7 +1311,7 @@ a huge box-office [[strike]] in korea , shiri is a must for genre fans .
 --------------------------------------------- Result 302 ---------------------------------------------
 [[1 (100%)]] --> [[[FAILED]]]
 
-i'm not a fan of the phrase 'life affirming' because it usually means 'schmaltzy , ' but real women have curves truly is life affirming .
+fred schepisi's film is paced at a speed that is slow to those of us in middle age and deathly slow to any teen . with a cast of a-list brit actors , it is worth searching out .
 --------------------------------------------- Result 303 ---------------------------------------------
 [[1 (84%)]] --> [[0 (98%)]]
 
@@ -1327,7 +1327,7 @@ if it's unnerving suspense you're after -- you'll find it with ring , an indispu
 --------------------------------------------- Result 305 ---------------------------------------------
 [[1 (100%)]] --> [[[FAILED]]]
 
-fred schepisi's film is paced at a speed that is slow to those of us in middle age and deathly slow to any teen . with a cast of a-list brit actors , it is worth searching out .
+the art direction and costumes are gorgeous and finely detailed , and kurys' direction is clever and insightful .
 --------------------------------------------- Result 306 ---------------------------------------------
 [[1 (100%)]] --> [[[FAILED]]]
 
@@ -1335,7 +1335,7 @@ red dragon makes one appreciate silence of the lambs .
 --------------------------------------------- Result 307 ---------------------------------------------
 [[1 (100%)]] --> [[[FAILED]]]
 
-the art direction and costumes are gorgeous and finely detailed , and kurys' direction is clever and insightful .
+the film is . . . determined to treat its characters , weak and strong , as fallible human beings , not caricatures , and to carefully delineate the cost of the inevitable conflicts between human urges and an institution concerned with self-preservation .
 --------------------------------------------- Result 308 ---------------------------------------------
 [[0 (96%)]] --> [[[SKIPPED]]]
 
@@ -1343,19 +1343,19 @@ leigh isn't breaking new ground , but he knows how a daily grind can kill love .
 --------------------------------------------- Result 309 ---------------------------------------------
 [[1 (100%)]] --> [[[FAILED]]]
 
-the film is . . . determined to treat its characters , weak and strong , as fallible human beings , not caricatures , and to carefully delineate the cost of the inevitable conflicts between human urges and an institution concerned with self-preservation .
+i'm not a fan of the phrase 'life affirming' because it usually means 'schmaltzy , ' but real women have curves truly is life affirming .
 --------------------------------------------- Result 310 ---------------------------------------------
 [[1 (100%)]] --> [[[FAILED]]]
 
-while broomfield's film doesn't capture the effect of these tragic deaths on hip-hop culture , it succeeds as a powerful look at a failure of our justice system .
+. . . strips bible stores of the potential for sanctimoniousness , making them meaningful for both kids and church-wary adults .
 --------------------------------------------- Result 311 ---------------------------------------------
 [[1 (100%)]] --> [[[FAILED]]]
 
-. . . strips bible stores of the potential for sanctimoniousness , making them meaningful for both kids and church-wary adults .
+while broomfield's film doesn't capture the effect of these tragic deaths on hip-hop culture , it succeeds as a powerful look at a failure of our justice system .
 --------------------------------------------- Result 312 ---------------------------------------------
 [[1 (100%)]] --> [[[FAILED]]]
 
-proves a servicable world war ii drama that can't totally hide its contrivances , but it at least calls attention to a problem hollywood too long has ignored .
+laugh-out-loud lines , adorably ditsy but heartfelt performances , and sparkling , bittersweet dialogue that cuts to the chase of the modern girl's dilemma .
 --------------------------------------------- Result 313 ---------------------------------------------
 [[1 (100%)]] --> [[[FAILED]]]
 
@@ -1363,7 +1363,7 @@ a solidly entertaining little film .
 --------------------------------------------- Result 314 ---------------------------------------------
 [[1 (100%)]] --> [[[FAILED]]]
 
-laugh-out-loud lines , adorably ditsy but heartfelt performances , and sparkling , bittersweet dialogue that cuts to the chase of the modern girl's dilemma .
+proves a servicable world war ii drama that can't totally hide its contrivances , but it at least calls attention to a problem hollywood too long has ignored .
 --------------------------------------------- Result 315 ---------------------------------------------
 [[0 (100%)]] --> [[[SKIPPED]]]
 
@@ -1435,17 +1435,15 @@ i just saw this movie . . . well , it's probably not accurate to call it a movie
 --------------------------------------------- Result 331 ---------------------------------------------
 [[1 (100%)]] --> [[[FAILED]]]
 
-the problems and characters it reveals are universal and involving , and the film itself -- as well its delightful cast -- is so breezy , pretty and gifted , it really won my heart .
+what's most memorable about circuit is that it's shot on digital video , whose tiny camera enables shafer to navigate spaces both large . . . and small . . . with considerable aplomb .
 --------------------------------------------- Result 332 ---------------------------------------------
 [[1 (100%)]] --> [[[FAILED]]]
 
-what's most memorable about circuit is that it's shot on digital video , whose tiny camera enables shafer to navigate spaces both large . . . and small . . . with considerable aplomb .
+the problems and characters it reveals are universal and involving , and the film itself -- as well its delightful cast -- is so breezy , pretty and gifted , it really won my heart .
 --------------------------------------------- Result 333 ---------------------------------------------
-[[1 (100%)]] --> [[0 (78%)]]
+[[1 (100%)]] --> [[[FAILED]]]
 
-scherfig , the writer-director , has made a [[film]] so unabashedly hopeful that it actually makes the [[heart]] [[soar]] . yes , soar .
-
-scherfig , the writer-director , has made a [[movie]] so unabashedly hopeful that it actually makes the [[nub]] [[hiked]] . yes , soar .
+a delicious and delicately funny look at the residents of a copenhagen neighborhood coping with the befuddling complications life tosses at them .
 --------------------------------------------- Result 334 ---------------------------------------------
 [[0 (99%)]] --> [[[SKIPPED]]]
 
@@ -1455,9 +1453,11 @@ scherfig , the writer-director , has made a [[movie]] so unabashedly hopeful tha
 
 soderbergh , like kubrick before him , may not touch the planet's skin , but understands the workings of its spirit .
 --------------------------------------------- Result 336 ---------------------------------------------
-[[1 (100%)]] --> [[[FAILED]]]
+[[1 (100%)]] --> [[0 (78%)]]
 
-a delicious and delicately funny look at the residents of a copenhagen neighborhood coping with the befuddling complications life tosses at them .
+scherfig , the writer-director , has made a [[film]] so unabashedly hopeful that it actually makes the [[heart]] [[soar]] . yes , soar .
+
+scherfig , the writer-director , has made a [[movie]] so unabashedly hopeful that it actually makes the [[nub]] [[hiked]] . yes , soar .
 --------------------------------------------- Result 337 ---------------------------------------------
 [[0 (94%)]] --> [[[SKIPPED]]]
 
@@ -1493,9 +1493,9 @@ a [[resplendent]] , [[ridiculous]] collection of vignettes that , in their own i
 
 steers , in his feature film debut , has created a brilliant motion picture .
 --------------------------------------------- Result 344 ---------------------------------------------
-[[1 (99%)]] --> [[[FAILED]]]
+[[1 (100%)]] --> [[[FAILED]]]
 
-the film may not hit as hard as some of the better drug-related pictures , but it still manages to get a few punches in .
+there is something that is so meditative and lyrical about babak payami's boldly quirky iranian drama secret ballot . . . a charming and evoking little ditty that manages to show the gentle and humane side of middle eastern world politics
 --------------------------------------------- Result 345 ---------------------------------------------
 [[1 (100%)]] --> [[[FAILED]]]
 
@@ -1503,11 +1503,11 @@ old-fashioned but thoroughly satisfying entertainment .
 --------------------------------------------- Result 346 ---------------------------------------------
 [[1 (100%)]] --> [[[FAILED]]]
 
-there is something that is so meditative and lyrical about babak payami's boldly quirky iranian drama secret ballot . . . a charming and evoking little ditty that manages to show the gentle and humane side of middle eastern world politics
---------------------------------------------- Result 347 ---------------------------------------------
-[[1 (100%)]] --> [[[FAILED]]]
-
 an energizing , intoxicating documentary charting the rise of hip-hop culture in general and the art of scratching ( or turntablism ) in particular .
+--------------------------------------------- Result 347 ---------------------------------------------
+[[1 (99%)]] --> [[[FAILED]]]
+
+the film may not hit as hard as some of the better drug-related pictures , but it still manages to get a few punches in .
 --------------------------------------------- Result 348 ---------------------------------------------
 [[1 (100%)]] --> [[[FAILED]]]
 
@@ -1519,7 +1519,7 @@ i had a dream that a smart comedy would come along to rescue me from a summer of
 --------------------------------------------- Result 350 ---------------------------------------------
 [[1 (100%)]] --> [[[FAILED]]]
 
-as warm as it is wise , deftly setting off uproarious humor with an underlying seriousness that sneaks up on the viewer , providing an experience that is richer than anticipated .
+if you open yourself up to mr . reggio's theory of this imagery as the movie's set . . . it can impart an almost visceral sense of dislocation and change .
 --------------------------------------------- Result 351 ---------------------------------------------
 [[0 (100%)]] --> [[[SKIPPED]]]
 
@@ -1527,11 +1527,11 @@ where this was lazy but enjoyable , a formula comedy redeemed by its stars , tha
 --------------------------------------------- Result 352 ---------------------------------------------
 [[1 (100%)]] --> [[[FAILED]]]
 
-even though the film doesn't manage to hit all of its marks , it's still entertaining to watch the target practice .
+as warm as it is wise , deftly setting off uproarious humor with an underlying seriousness that sneaks up on the viewer , providing an experience that is richer than anticipated .
 --------------------------------------------- Result 353 ---------------------------------------------
 [[1 (100%)]] --> [[[FAILED]]]
 
-if you open yourself up to mr . reggio's theory of this imagery as the movie's set . . . it can impart an almost visceral sense of dislocation and change .
+even though the film doesn't manage to hit all of its marks , it's still entertaining to watch the target practice .
 --------------------------------------------- Result 354 ---------------------------------------------
 [[1 (100%)]] --> [[[FAILED]]]
 
@@ -1563,7 +1563,7 @@ works as pretty contagious fun .
 --------------------------------------------- Result 361 ---------------------------------------------
 [[1 (100%)]] --> [[[FAILED]]]
 
-bittersweet comedy/drama full of life , hand gestures , and some really adorable italian guys .
+a fun family movie that's suitable for all ages -- a movie that will make you laugh , cry and realize , 'it's never too late to believe in your dreams . '
 --------------------------------------------- Result 362 ---------------------------------------------
 [[1 (100%)]] --> [[0 (100%)]]
 
@@ -1571,19 +1571,19 @@ a realistically [[terrifying]] movie that puts another notch in the belt of the 
 
 a realistically [[dreadful]] movie that puts another notch in the belt of the long list of renegade-cop tales .
 --------------------------------------------- Result 363 ---------------------------------------------
-[[1 (100%)]] --> [[[FAILED]]]
-
-the best didacticism is one carried by a strong sense of humanism , and bertrand tavernier's oft-brilliant safe conduct ( " laissez-passer " ) wears its heart on its sleeve .
---------------------------------------------- Result 364 ---------------------------------------------
 [[1 (98%)]] --> [[0 (92%)]]
 
 a [[charming]] , banter-filled comedy . . . one of those airy cinematic bon bons whose aims -- and by extension , accomplishments -- seem deceptively slight on the surface .
 
 a [[cute]] , banter-filled comedy . . . one of those airy cinematic bon bons whose aims -- and by extension , accomplishments -- seem deceptively slight on the surface .
+--------------------------------------------- Result 364 ---------------------------------------------
+[[1 (100%)]] --> [[[FAILED]]]
+
+bittersweet comedy/drama full of life , hand gestures , and some really adorable italian guys .
 --------------------------------------------- Result 365 ---------------------------------------------
 [[1 (100%)]] --> [[[FAILED]]]
 
-a fun family movie that's suitable for all ages -- a movie that will make you laugh , cry and realize , 'it's never too late to believe in your dreams . '
+the best didacticism is one carried by a strong sense of humanism , and bertrand tavernier's oft-brilliant safe conduct ( " laissez-passer " ) wears its heart on its sleeve .
 --------------------------------------------- Result 366 ---------------------------------------------
 [[1 (100%)]] --> [[0 (76%)]]
 
@@ -1607,9 +1607,11 @@ a film with almost as many delights for adults as there are for children and dog
 
 i would be shocked if there was actually one correct interpretation , but that shouldn't make the movie or the discussion any less enjoyable .
 --------------------------------------------- Result 371 ---------------------------------------------
-[[1 (100%)]] --> [[[FAILED]]]
+[[1 (99%)]] --> [[0 (62%)]]
 
-fans of the modern day hong kong action film finally have the worthy successor to a better tomorrow and the killer which they have been patiently waiting for .
+caruso sometimes descends into sub-tarantino cuteness . . . but for the most [[part]] he makes sure the salton sea [[works]] the way a good noir [[should]] , [[keeping]] it tight and nasty .
+
+caruso sometimes descends into sub-tarantino cuteness . . . but for the most [[portions]] he makes sure the salton sea [[collaborating]] the way a good noir [[ought]] , [[conserve]] it tight and nasty .
 --------------------------------------------- Result 372 ---------------------------------------------
 [[1 (100%)]] --> [[0 (100%)]]
 
@@ -1645,11 +1647,9 @@ by turns very dark and very funny .
 
 steven soderbergh doesn't remake andrei tarkovsky's solaris so much as distill it .
 --------------------------------------------- Result 379 ---------------------------------------------
-[[1 (99%)]] --> [[0 (62%)]]
+[[1 (100%)]] --> [[[FAILED]]]
 
-caruso sometimes descends into sub-tarantino cuteness . . . but for the most [[part]] he makes sure the salton sea [[works]] the way a good noir [[should]] , [[keeping]] it tight and nasty .
-
-caruso sometimes descends into sub-tarantino cuteness . . . but for the most [[portions]] he makes sure the salton sea [[collaborating]] the way a good noir [[ought]] , [[conserve]] it tight and nasty .
+chouraqui brings documentary-like credibility to the horrors of the killing field and the barbarism of 'ethnic cleansing . '
 --------------------------------------------- Result 380 ---------------------------------------------
 [[1 (100%)]] --> [[[FAILED]]]
 
@@ -1657,11 +1657,11 @@ simultaneously heartbreakingly beautiful and exquisitely sad .
 --------------------------------------------- Result 381 ---------------------------------------------
 [[1 (100%)]] --> [[[FAILED]]]
 
-chouraqui brings documentary-like credibility to the horrors of the killing field and the barbarism of 'ethnic cleansing . '
+oddly , the film isn't nearly as downbeat as it sounds , but strikes a tone that's alternately melancholic , hopeful and strangely funny .
 --------------------------------------------- Result 382 ---------------------------------------------
 [[1 (100%)]] --> [[[FAILED]]]
 
-oddly , the film isn't nearly as downbeat as it sounds , but strikes a tone that's alternately melancholic , hopeful and strangely funny .
+fans of the modern day hong kong action film finally have the worthy successor to a better tomorrow and the killer which they have been patiently waiting for .
 --------------------------------------------- Result 383 ---------------------------------------------
 [[1 (99%)]] --> [[[FAILED]]]
 
@@ -1713,21 +1713,21 @@ an engrossing story that combines psychological drama , sociological reflection 
 --------------------------------------------- Result 394 ---------------------------------------------
 [[1 (100%)]] --> [[[FAILED]]]
 
-one of the best of a growing strain of daring films . . . that argue that any sexual relationship that doesn't hurt anyone and works for its participants is a relationship that is worthy of our respect .
+if s&m seems like a strange route to true love , maybe it is , but it's to this film's ( and its makers' ) credit that we believe that that's exactly what these two people need to find each other -- and themselves .
 --------------------------------------------- Result 395 ---------------------------------------------
-[[1 (100%)]] --> [[[FAILED]]]
-
-if the film's vision of sport as a secular religion is a bit cloying , its through-line of family and community is heartening in the same way that each season marks a new start .
---------------------------------------------- Result 396 ---------------------------------------------
 [[1 (100%)]] --> [[0 (89%)]]
 
 mel gibson [[fights]] the good fight in vietnam in director randall wallace's flag-waving war flick with a core of decency .
 
 mel gibson [[struggles]] the good fight in vietnam in director randall wallace's flag-waving war flick with a core of decency .
+--------------------------------------------- Result 396 ---------------------------------------------
+[[1 (100%)]] --> [[[FAILED]]]
+
+if the film's vision of sport as a secular religion is a bit cloying , its through-line of family and community is heartening in the same way that each season marks a new start .
 --------------------------------------------- Result 397 ---------------------------------------------
 [[1 (100%)]] --> [[[FAILED]]]
 
-if s&m seems like a strange route to true love , maybe it is , but it's to this film's ( and its makers' ) credit that we believe that that's exactly what these two people need to find each other -- and themselves .
+one of the best of a growing strain of daring films . . . that argue that any sexual relationship that doesn't hurt anyone and works for its participants is a relationship that is worthy of our respect .
 --------------------------------------------- Result 398 ---------------------------------------------
 [[1 (100%)]] --> [[0 (85%)]]
 
@@ -1807,19 +1807,19 @@ i'm happy to have seen it -- not as an alternate version , but as the ultimate e
 
 by turns gripping , amusing , tender and heart-wrenching , laissez-passer has all the earmarks of french cinema at its best .
 --------------------------------------------- Result 415 ---------------------------------------------
-[[1 (100%)]] --> [[[FAILED]]]
-
-a brutal and funny work . nicole holofcenter , the insightful writer/director responsible for this illuminating comedy doesn't wrap the proceedings up neatly but the ideas tie together beautifully .
---------------------------------------------- Result 416 ---------------------------------------------
 [[1 (100%)]] --> [[0 (68%)]]
 
 the warnings to resist [[temptation]] in this film . . . are blunt and challenging and offer no [[easy]] rewards for staying clean .
 
 the warnings to resist [[enticement]] in this film . . . are blunt and challenging and offer no [[effortless]] rewards for staying clean .
---------------------------------------------- Result 417 ---------------------------------------------
+--------------------------------------------- Result 416 ---------------------------------------------
 [[1 (100%)]] --> [[[FAILED]]]
 
 wonder of wonders -- a teen movie with a humanistic message .
+--------------------------------------------- Result 417 ---------------------------------------------
+[[1 (100%)]] --> [[[FAILED]]]
+
+a brutal and funny work . nicole holofcenter , the insightful writer/director responsible for this illuminating comedy doesn't wrap the proceedings up neatly but the ideas tie together beautifully .
 --------------------------------------------- Result 418 ---------------------------------------------
 [[1 (100%)]] --> [[[FAILED]]]
 
@@ -1849,17 +1849,17 @@ like its title character , this nicholas nickleby finds itself in reduced circum
 
 unpretentious , charming , quirky , original
 --------------------------------------------- Result 425 ---------------------------------------------
-[[1 (100%)]] --> [[[FAILED]]]
+[[1 (99%)]] --> [[[FAILED]]]
 
-as a thoughtful and unflinching examination of an alternative lifestyle , sex with strangers is a success .
+spinning a web of dazzling entertainment may be overstating it , but " spider-man " certainly delivers the goods .
 --------------------------------------------- Result 426 ---------------------------------------------
 [[0 (100%)]] --> [[[SKIPPED]]]
 
 other than the slightly flawed ( and fairly unbelievable ) finale , everything else is top shelf .
 --------------------------------------------- Result 427 ---------------------------------------------
-[[1 (99%)]] --> [[[FAILED]]]
+[[1 (100%)]] --> [[[FAILED]]]
 
-spinning a web of dazzling entertainment may be overstating it , but " spider-man " certainly delivers the goods .
+as a thoughtful and unflinching examination of an alternative lifestyle , sex with strangers is a success .
 --------------------------------------------- Result 428 ---------------------------------------------
 [[0 (100%)]] --> [[[SKIPPED]]]
 
@@ -1867,7 +1867,7 @@ manages to delight without much of a story .
 --------------------------------------------- Result 429 ---------------------------------------------
 [[1 (100%)]] --> [[[FAILED]]]
 
-there's no denying that burns is a filmmaker with a bright future ahead of him .
+what emerges is an unsettling picture of childhood innocence combined with indoctrinated prejudice . promises is a compelling piece that demonstrates just how well children can be trained to live out and carry on their parents' anguish .
 --------------------------------------------- Result 430 ---------------------------------------------
 [[0 (99%)]] --> [[[SKIPPED]]]
 
@@ -1879,25 +1879,25 @@ fairy-tale formula , serves as a paper skeleton for some very good acting , dial
 --------------------------------------------- Result 432 ---------------------------------------------
 [[1 (100%)]] --> [[[FAILED]]]
 
-what emerges is an unsettling picture of childhood innocence combined with indoctrinated prejudice . promises is a compelling piece that demonstrates just how well children can be trained to live out and carry on their parents' anguish .
+there's no denying that burns is a filmmaker with a bright future ahead of him .
 --------------------------------------------- Result 433 ---------------------------------------------
-[[1 (98%)]] --> [[0 (65%)]]
+[[1 (99%)]] --> [[[FAILED]]]
 
-though the [[aboriginal]] aspect lends the [[ending]] an [[extraordinary]] poignancy , and the story itself could be played out in any working class community in the nation .
-
-though the [[native]] aspect lends the [[terminate]] an [[marvelous]] poignancy , and the story itself could be played out in any working class community in the nation .
+. it's a testament to the film's considerable charm that it succeeds in entertaining , despite playing out like a feature-length sitcom replete with stereotypical familial quandaries . there's a sheer unbridled delight in the way the story unfurls . . .
 --------------------------------------------- Result 434 ---------------------------------------------
 [[1 (100%)]] --> [[[FAILED]]]
 
 an energetic and engaging film that never pretends to be something it isn't .
 --------------------------------------------- Result 435 ---------------------------------------------
+[[1 (98%)]] --> [[0 (65%)]]
+
+though the [[aboriginal]] aspect lends the [[ending]] an [[extraordinary]] poignancy , and the story itself could be played out in any working class community in the nation .
+
+though the [[native]] aspect lends the [[terminate]] an [[marvelous]] poignancy , and the story itself could be played out in any working class community in the nation .
+--------------------------------------------- Result 436 ---------------------------------------------
 [[1 (100%)]] --> [[[FAILED]]]
 
-this fascinating look at israel in ferment feels as immediate as the latest news footage from gaza and , because of its heightened , well-shaped dramas , twice as powerful .
---------------------------------------------- Result 436 ---------------------------------------------
-[[1 (99%)]] --> [[[FAILED]]]
-
-. it's a testament to the film's considerable charm that it succeeds in entertaining , despite playing out like a feature-length sitcom replete with stereotypical familial quandaries . there's a sheer unbridled delight in the way the story unfurls . . .
+an animation landmark as monumental as disney's 1937 breakthrough snow white and the seven dwarfs .
 --------------------------------------------- Result 437 ---------------------------------------------
 [[1 (99%)]] --> [[0 (96%)]]
 
@@ -1907,11 +1907,11 @@ an entertaining , if ultimately [[marginal]] , thriller .
 --------------------------------------------- Result 438 ---------------------------------------------
 [[1 (100%)]] --> [[[FAILED]]]
 
-an animation landmark as monumental as disney's 1937 breakthrough snow white and the seven dwarfs .
+sex with strangers is fascinating . . .
 --------------------------------------------- Result 439 ---------------------------------------------
 [[1 (100%)]] --> [[[FAILED]]]
 
-sex with strangers is fascinating . . .
+a subtle , poignant picture of goodness that is flawed , compromised and sad .
 --------------------------------------------- Result 440 ---------------------------------------------
 [[1 (100%)]] --> [[[FAILED]]]
 
@@ -1925,7 +1925,7 @@ the acting in pauline and paulette is good all round , but what really sets the 
 --------------------------------------------- Result 442 ---------------------------------------------
 [[1 (100%)]] --> [[[FAILED]]]
 
-a subtle , poignant picture of goodness that is flawed , compromised and sad .
+this fascinating look at israel in ferment feels as immediate as the latest news footage from gaza and , because of its heightened , well-shaped dramas , twice as powerful .
 --------------------------------------------- Result 443 ---------------------------------------------
 [[1 (100%)]] --> [[[FAILED]]]
 
@@ -1955,7 +1955,7 @@ each of these stories has the potential for touched by an angel simplicity and s
 --------------------------------------------- Result 449 ---------------------------------------------
 [[1 (100%)]] --> [[[FAILED]]]
 
-if borstal boy isn't especially realistic , it is an engaging nostalgia piece .
+a violent initiation rite for the audience , as much as it is for angelique , the [opening] dance guarantees karmen's enthronement among the cinema's memorable women .
 --------------------------------------------- Result 450 ---------------------------------------------
 [[0 (100%)]] --> [[[SKIPPED]]]
 
@@ -1971,7 +1971,7 @@ maggie smith as the ya-ya member with the o2-tank will absolutely crack you up w
 --------------------------------------------- Result 453 ---------------------------------------------
 [[1 (100%)]] --> [[[FAILED]]]
 
-a violent initiation rite for the audience , as much as it is for angelique , the [opening] dance guarantees karmen's enthronement among the cinema's memorable women .
+if borstal boy isn't especially realistic , it is an engaging nostalgia piece .
 --------------------------------------------- Result 454 ---------------------------------------------
 [[0 (100%)]] --> [[[SKIPPED]]]
 
@@ -1995,7 +1995,7 @@ paid in full is remarkably engaging despite being noticeably derivative of goodf
 --------------------------------------------- Result 459 ---------------------------------------------
 [[1 (100%)]] --> [[[FAILED]]]
 
-this is a movie that refreshes the mind and spirit along with the body , so original is its content , look , and style .
+literary purists may not be pleased , but as far as mainstream matinee-style entertainment goes , it does a bang-up job of pleasing the crowds .
 --------------------------------------------- Result 460 ---------------------------------------------
 [[1 (100%)]] --> [[[FAILED]]]
 
@@ -2007,7 +2007,7 @@ intriguing and stylish .
 --------------------------------------------- Result 462 ---------------------------------------------
 [[1 (100%)]] --> [[[FAILED]]]
 
-literary purists may not be pleased , but as far as mainstream matinee-style entertainment goes , it does a bang-up job of pleasing the crowds .
+this is a movie that refreshes the mind and spirit along with the body , so original is its content , look , and style .
 --------------------------------------------- Result 463 ---------------------------------------------
 [[1 (100%)]] --> [[[FAILED]]]
 
@@ -2177,19 +2177,19 @@ this is popcorn movie fun with equal doses of action , cheese , ham and cheek ( 
 --------------------------------------------- Result 500 ---------------------------------------------
 [[1 (100%)]] --> [[[FAILED]]]
 
-an inuit masterpiece that will give you goosebumps as its uncanny tale of love , communal discord , and justice unfolds .
+the film has the high-buffed gloss and high-octane jolts you expect of de palma , but what makes it transporting is that it's also one of the smartest , most pleasurable expressions of pure movie love to come from an american director in years .
 --------------------------------------------- Result 501 ---------------------------------------------
 [[1 (100%)]] --> [[[FAILED]]]
 
-the film has the high-buffed gloss and high-octane jolts you expect of de palma , but what makes it transporting is that it's also one of the smartest , most pleasurable expressions of pure movie love to come from an american director in years .
+an inuit masterpiece that will give you goosebumps as its uncanny tale of love , communal discord , and justice unfolds .
 --------------------------------------------- Result 502 ---------------------------------------------
 [[1 (100%)]] --> [[[FAILED]]]
 
-this chicago has hugely imaginative and successful casting to its great credit , as well as one terrific score and attitude to spare .
+performances are potent , and the women's stories are ably intercut and involving .
 --------------------------------------------- Result 503 ---------------------------------------------
 [[1 (100%)]] --> [[[FAILED]]]
 
-performances are potent , and the women's stories are ably intercut and involving .
+this chicago has hugely imaginative and successful casting to its great credit , as well as one terrific score and attitude to spare .
 --------------------------------------------- Result 504 ---------------------------------------------
 [[1 (61%)]] --> [[0 (96%)]]
 
@@ -2251,9 +2251,9 @@ the charms of the lead performances [[allow]] us to [[forget]] most of the film'
 
 the charms of the lead performances [[permitting]] us to [[forgot]] most of the film's problems .
 --------------------------------------------- Result 517 ---------------------------------------------
-[[1 (100%)]] --> [[[FAILED]]]
+[[1 (99%)]] --> [[[FAILED]]]
 
-a vivid , sometimes surreal , glimpse into the mysteries of human behavior .
+road to perdition does display greatness , and it's worth seeing . but it also comes with the laziness and arrogance of a thing that already knows it's won .
 --------------------------------------------- Result 518 ---------------------------------------------
 [[1 (100%)]] --> [[[FAILED]]]
 
@@ -2263,9 +2263,9 @@ a tour de force of modern cinema .
 
 what a dumb , fun , curiously adolescent movie this is .
 --------------------------------------------- Result 520 ---------------------------------------------
-[[1 (99%)]] --> [[[FAILED]]]
+[[1 (100%)]] --> [[[FAILED]]]
 
-road to perdition does display greatness , and it's worth seeing . but it also comes with the laziness and arrogance of a thing that already knows it's won .
+a vivid , sometimes surreal , glimpse into the mysteries of human behavior .
 --------------------------------------------- Result 521 ---------------------------------------------
 [[1 (100%)]] --> [[[FAILED]]]
 
@@ -2301,17 +2301,17 @@ arliss howard's ambitious , moving , and adventurous directorial debut , big bad
 
 standing in the shadows of motown is the best kind of documentary , one that makes a depleted yesterday feel very much like a brand-new tomorrow .
 --------------------------------------------- Result 529 ---------------------------------------------
-[[1 (100%)]] --> [[[FAILED]]]
-
-mazel tov to a film about a family's joyous life acting on the yiddish stage .
---------------------------------------------- Result 530 ---------------------------------------------
 [[1 (99%)]] --> [[[FAILED]]]
 
 it's nice to see piscopo again after all these years , and chaykin and headly are priceless .
---------------------------------------------- Result 531 ---------------------------------------------
-[[0 (100%)]] --> [[[FAILED]]]
+--------------------------------------------- Result 530 ---------------------------------------------
+[[1 (100%)]] --> [[[FAILED]]]
 
-this slender plot feels especially thin stretched over the nearly 80-minute running time .
+provides a porthole into that noble , trembling incoherence that defines us all .
+--------------------------------------------- Result 531 ---------------------------------------------
+[[1 (100%)]] --> [[[FAILED]]]
+
+mazel tov to a film about a family's joyous life acting on the yiddish stage .
 --------------------------------------------- Result 532 ---------------------------------------------
 [[1 (99%)]] --> [[[SKIPPED]]]
 
@@ -2329,9 +2329,9 @@ the densest distillation of roberts' [[movies]] ever made .
 
 the densest distillation of roberts' [[cinema]] ever made .
 --------------------------------------------- Result 535 ---------------------------------------------
-[[1 (100%)]] --> [[[FAILED]]]
+[[0 (100%)]] --> [[[FAILED]]]
 
-provides a porthole into that noble , trembling incoherence that defines us all .
+this slender plot feels especially thin stretched over the nearly 80-minute running time .
 --------------------------------------------- Result 536 ---------------------------------------------
 [[1 (100%)]] --> [[[FAILED]]]
 
@@ -2353,9 +2353,9 @@ master of disguise runs for only 71 minutes and feels like three hours .
 
 a reworking of die hard and cliffhanger but it's nowhere near as exciting as either .
 --------------------------------------------- Result 541 ---------------------------------------------
-[[1 (100%)]] --> [[[FAILED]]]
+[[0 (100%)]] --> [[[FAILED]]]
 
-peralta captures , in luminous interviews and amazingly evocative film from three decades ago , the essence of the dogtown experience .
+suffers from unlikable characters and a self-conscious sense of its own quirky hipness .
 --------------------------------------------- Result 542 ---------------------------------------------
 [[0 (96%)]] --> [[1 (99%)]]
 
@@ -2363,9 +2363,9 @@ a film without [[surprise]] geared toward maximum comfort and familiarity .
 
 a film without [[astonishment]] geared toward maximum comfort and familiarity .
 --------------------------------------------- Result 543 ---------------------------------------------
-[[0 (100%)]] --> [[[FAILED]]]
+[[1 (100%)]] --> [[[FAILED]]]
 
-suffers from unlikable characters and a self-conscious sense of its own quirky hipness .
+peralta captures , in luminous interviews and amazingly evocative film from three decades ago , the essence of the dogtown experience .
 --------------------------------------------- Result 544 ---------------------------------------------
 [[0 (100%)]] --> [[[FAILED]]]
 
@@ -2373,7 +2373,7 @@ spirit is a visual treat , and it takes chances that are bold by studio standard
 --------------------------------------------- Result 545 ---------------------------------------------
 [[0 (100%)]] --> [[[FAILED]]]
 
-it stars schticky chris rock and stolid anthony hopkins , who seem barely in the same movie . their contrast is neither dramatic nor comic -- it's just a weird fizzle .
+tom green and an ivy league college should never appear together on a marquee , especially when the payoff is an unschooled comedy like stealing harvard , which fails to keep 80 minutes from seeming like 800 .
 --------------------------------------------- Result 546 ---------------------------------------------
 [[0 (99%)]] --> [[1 (52%)]]
 
@@ -2385,9 +2385,11 @@ this is a children's film in the truest sense . it's packed with adventure and a
 
 the niftiest trick perpetrated by the importance of being earnest is the alchemical transmogrification of wilde into austen--and a hollywood-ized austen at that .
 --------------------------------------------- Result 548 ---------------------------------------------
-[[0 (100%)]] --> [[[FAILED]]]
+[[0 (99%)]] --> [[1 (100%)]]
 
-tom green and an ivy league college should never appear together on a marquee , especially when the payoff is an unschooled comedy like stealing harvard , which fails to keep 80 minutes from seeming like 800 .
+tykwer's surface flash isn't just a poor fit with kieslowski's lyrical pessimism ; it [[completely]] contradicts everything kieslowski's work aspired to , including the condition of art .
+
+tykwer's surface flash isn't just a poor fit with kieslowski's lyrical pessimism ; it [[abundantly]] contradicts everything kieslowski's work aspired to , including the condition of art .
 --------------------------------------------- Result 549 ---------------------------------------------
 [[1 (98%)]] --> [[[SKIPPED]]]
 
@@ -2397,19 +2399,17 @@ ice age is the first computer-generated feature cartoon to feel like other movie
 
 too slick and manufactured to claim street credibility .
 --------------------------------------------- Result 551 ---------------------------------------------
-[[0 (99%)]] --> [[1 (100%)]]
-
-tykwer's surface flash isn't just a poor fit with kieslowski's lyrical pessimism ; it [[completely]] contradicts everything kieslowski's work aspired to , including the condition of art .
-
-tykwer's surface flash isn't just a poor fit with kieslowski's lyrical pessimism ; it [[abundantly]] contradicts everything kieslowski's work aspired to , including the condition of art .
---------------------------------------------- Result 552 ---------------------------------------------
 [[0 (100%)]] --> [[[FAILED]]]
 
 ultimately , the film never recovers from the clumsy cliché of the ugly american abroad , and the too-frosty exterior ms . paltrow employs to authenticate her british persona is another liability .
---------------------------------------------- Result 553 ---------------------------------------------
+--------------------------------------------- Result 552 ---------------------------------------------
 [[0 (100%)]] --> [[[FAILED]]]
 
 what ensues are much blood-splattering , mass drug-induced bowel evacuations , and none-too-funny commentary on the cultural distinctions between americans and brits .
+--------------------------------------------- Result 553 ---------------------------------------------
+[[0 (100%)]] --> [[[FAILED]]]
+
+it stars schticky chris rock and stolid anthony hopkins , who seem barely in the same movie . their contrast is neither dramatic nor comic -- it's just a weird fizzle .
 --------------------------------------------- Result 554 ---------------------------------------------
 [[1 (70%)]] --> [[[SKIPPED]]]
 
@@ -2447,17 +2447,17 @@ the dramatic scenes are frequently unintentionally funny , and the action sequen
 
 the dramatic scenes are frequently unintentionally funny , and the action sequences -- [[manifestly]] the main event -- are [[stunningly]] uninvolving .
 --------------------------------------------- Result 562 ---------------------------------------------
-[[0 (99%)]] --> [[[FAILED]]]
+[[0 (100%)]] --> [[[FAILED]]]
 
-replacing john carpenter's stylish tracking shots is degraded , handheld blair witch video-cam footage . of all the halloween's , this is the most visually unappealing .
+cherry orchard is badly edited , often awkwardly directed and suffers from the addition of a wholly unnecessary pre-credit sequence designed to give some of the characters a 'back story . '
 --------------------------------------------- Result 563 ---------------------------------------------
 [[1 (80%)]] --> [[[SKIPPED]]]
 
 it has the requisite faux-urban vibe and hotter-two-years-ago rap and r&b names and references .
 --------------------------------------------- Result 564 ---------------------------------------------
-[[0 (100%)]] --> [[[FAILED]]]
+[[0 (99%)]] --> [[[FAILED]]]
 
-the first mistake , i suspect , is casting shatner as a legendary professor and kunis as a brilliant college student--where's pauly shore as the rocket scientist ?
+replacing john carpenter's stylish tracking shots is degraded , handheld blair witch video-cam footage . of all the halloween's , this is the most visually unappealing .
 --------------------------------------------- Result 565 ---------------------------------------------
 [[0 (74%)]] --> [[1 (57%)]]
 
@@ -2467,7 +2467,7 @@ the first mistake , i suspect , is casting shatner as a legendary professor and 
 --------------------------------------------- Result 566 ---------------------------------------------
 [[0 (100%)]] --> [[[FAILED]]]
 
-cherry orchard is badly edited , often awkwardly directed and suffers from the addition of a wholly unnecessary pre-credit sequence designed to give some of the characters a 'back story . '
+the first mistake , i suspect , is casting shatner as a legendary professor and kunis as a brilliant college student--where's pauly shore as the rocket scientist ?
 --------------------------------------------- Result 567 ---------------------------------------------
 [[0 (99%)]] --> [[[FAILED]]]
 
@@ -2511,11 +2511,11 @@ bang ! zoom ! it's actually pretty funny , but in all the wrong places .
 --------------------------------------------- Result 577 ---------------------------------------------
 [[0 (100%)]] --> [[[FAILED]]]
 
-unfortunately , neither sendak nor the directors are particularly engaging or articulate .
+lurid and less than lucid work .
 --------------------------------------------- Result 578 ---------------------------------------------
 [[0 (100%)]] --> [[[FAILED]]]
 
-lurid and less than lucid work .
+unfortunately , neither sendak nor the directors are particularly engaging or articulate .
 --------------------------------------------- Result 579 ---------------------------------------------
 [[0 (100%)]] --> [[[FAILED]]]
 
@@ -2533,17 +2533,17 @@ this 90-minute dud could pass for mike tyson's e ! true hollywood story .
 
 this is surely one of the most frantic , virulent and foul-natured christmas season pics ever delivered by a hollywood studio .
 --------------------------------------------- Result 583 ---------------------------------------------
-[[0 (100%)]] --> [[[FAILED]]]
+[[0 (62%)]] --> [[[FAILED]]]
 
-once the expectation of laughter has been quashed by whatever obscenity is at hand , even the funniest idea isn't funny .
+if anything , see it for karen black , who camps up a storm as a fringe feminist conspiracy theorist named dirty dick .
 --------------------------------------------- Result 584 ---------------------------------------------
 [[0 (100%)]] --> [[[FAILED]]]
 
 a porn film without the sex scenes .
 --------------------------------------------- Result 585 ---------------------------------------------
-[[0 (62%)]] --> [[[FAILED]]]
+[[0 (100%)]] --> [[[FAILED]]]
 
-if anything , see it for karen black , who camps up a storm as a fringe feminist conspiracy theorist named dirty dick .
+once the expectation of laughter has been quashed by whatever obscenity is at hand , even the funniest idea isn't funny .
 --------------------------------------------- Result 586 ---------------------------------------------
 [[0 (100%)]] --> [[1 (72%)]]
 
@@ -2557,15 +2557,15 @@ while hollywood ending has its share of belly laughs ( including a knockout of a
 --------------------------------------------- Result 588 ---------------------------------------------
 [[0 (100%)]] --> [[[FAILED]]]
 
-return to never land is much more p . c . than the original version ( no more racist portraits of indians , for instance ) , but the excitement is missing .
+a wannabe comedy of manners about a brainy prep-school kid with a mrs . robinson complex founders on its own preciousness -- and squanders its beautiful women .
 --------------------------------------------- Result 589 ---------------------------------------------
 [[0 (100%)]] --> [[[FAILED]]]
 
-a wannabe comedy of manners about a brainy prep-school kid with a mrs . robinson complex founders on its own preciousness -- and squanders its beautiful women .
+return to never land is much more p . c . than the original version ( no more racist portraits of indians , for instance ) , but the excitement is missing .
 --------------------------------------------- Result 590 ---------------------------------------------
 [[0 (100%)]] --> [[[FAILED]]]
 
-the connected stories of breitbart and hanussen are actually fascinating , but the filmmaking in invincible is such that the movie does not do them justice .
+while it's all quite tasteful to look at , the attention process tends to do a little fleeing of its own .
 --------------------------------------------- Result 591 ---------------------------------------------
 [[0 (100%)]] --> [[[FAILED]]]
 
@@ -2573,19 +2573,19 @@ broder's screenplay is shallow , offensive and redundant , with pitifully few re
 --------------------------------------------- Result 592 ---------------------------------------------
 [[0 (100%)]] --> [[[FAILED]]]
 
-while it's all quite tasteful to look at , the attention process tends to do a little fleeing of its own .
+by the end , you just don't care whether that cold-hearted snake petrovich ( that would be reno ) gets his comeuppance . just bring on the battle bots , please !
 --------------------------------------------- Result 593 ---------------------------------------------
-[[0 (99%)]] --> [[1 (69%)]]
-
-don michael paul uses quick-cuts , ( very ) large shadows and wide-angle shots taken from a distance to [[hide]] the liberal use of a body double ( for seagal ) .
-
-don michael paul uses quick-cuts , ( very ) large shadows and wide-angle shots taken from a distance to [[hidden]] the liberal use of a body double ( for seagal ) .
---------------------------------------------- Result 594 ---------------------------------------------
 [[0 (78%)]] --> [[1 (99%)]]
 
 slow , [[silly]] and unintentionally hilarious .
 
 slow , [[daft]] and unintentionally hilarious .
+--------------------------------------------- Result 594 ---------------------------------------------
+[[0 (99%)]] --> [[1 (69%)]]
+
+don michael paul uses quick-cuts , ( very ) large shadows and wide-angle shots taken from a distance to [[hide]] the liberal use of a body double ( for seagal ) .
+
+don michael paul uses quick-cuts , ( very ) large shadows and wide-angle shots taken from a distance to [[hidden]] the liberal use of a body double ( for seagal ) .
 --------------------------------------------- Result 595 ---------------------------------------------
 [[0 (99%)]] --> [[1 (62%)]]
 
@@ -2593,19 +2593,19 @@ the sweetest thing leaves a bitter [[taste]] .
 
 the sweetest thing leaves a bitter [[tasting]] .
 --------------------------------------------- Result 596 ---------------------------------------------
-[[0 (99%)]] --> [[1 (57%)]]
+[[0 (100%)]] --> [[[FAILED]]]
 
-for something as splendid-looking as this [[particular]] film , the viewer expects something special but instead [[gets]] [sci-fi] rehash .
-
-for something as splendid-looking as this [[specific]] film , the viewer expects something special but instead [[obtains]] [sci-fi] rehash .
+the connected stories of breitbart and hanussen are actually fascinating , but the filmmaking in invincible is such that the movie does not do them justice .
 --------------------------------------------- Result 597 ---------------------------------------------
 [[0 (100%)]] --> [[[FAILED]]]
 
 a thriller without a lot of thrills .
 --------------------------------------------- Result 598 ---------------------------------------------
-[[0 (100%)]] --> [[[FAILED]]]
+[[0 (99%)]] --> [[1 (57%)]]
 
-by the end , you just don't care whether that cold-hearted snake petrovich ( that would be reno ) gets his comeuppance . just bring on the battle bots , please !
+for something as splendid-looking as this [[particular]] film , the viewer expects something special but instead [[gets]] [sci-fi] rehash .
+
+for something as splendid-looking as this [[specific]] film , the viewer expects something special but instead [[obtains]] [sci-fi] rehash .
 --------------------------------------------- Result 599 ---------------------------------------------
 [[0 (95%)]] --> [[1 (85%)]]
 
