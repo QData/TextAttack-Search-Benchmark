@@ -1,5 +1,5 @@
 # Searching for a Search Method: Benchmarking Search Algorithms for Generating NLP Adversarial Examples
-This repo contains the code and results for paper "Searching for a Search Method: Benchmarking Search Algorithms for Generating NLP Adversarial Examples", which was accepted to [EMNLP 2020 Blackbox NLP Workshop] track proceedings.
+This repo contains the code and results for paper "[Searching for a Search Method: Benchmarking Search Algorithms for Generating NLP Adversarial Examples](https://arxiv.org/abs/2009.06368)", which will appear in the [EMNLP 2020 Blackbox NLP Workshop] track proceedings.
 
 Note that all the experiment was carried using [**TextAttack**](https://github.com/QData/TextAttack), which is a Python framework for adversarial attacks, data augmentation, and model training in NLP. 
 
@@ -24,3 +24,17 @@ To run all the 15 experiments, you can use `python grid_run.py`.
 
 ## Evaluation
 Evaluation of results are done in `autoevaluation.ipynb` notebook. 
+
+## Citing
+To cite this work, please use
+
+```
+@misc{yoo2020searching,
+      title={Searching for a Search Method: Benchmarking Search Algorithms for Generating NLP Adversarial Examples}, 
+      author={Jin Yong Yoo and John X. Morris and Eli Lifland and Yanjun Qi},
+      year={2020},
+      eprint={2009.06368},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
+```
