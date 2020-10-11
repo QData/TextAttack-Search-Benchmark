@@ -1,5 +1,5 @@
 # Searching for a Search Method: Benchmarking Search Algorithms for Generating NLP Adversarial Examples
-This repo contains the code and results for paper "[Searching for a Search Method: Benchmarking Search Algorithms for Generating NLP Adversarial Examples](https://arxiv.org/abs/2009.06368)", which will appear in the [EMNLP 2020 Blackbox NLP Workshop] track proceedings.
+This repo contains the code and results for paper "[Searching for a Search Method: Benchmarking Search Algorithms for Generating NLP Adversarial Examples](https://arxiv.org/abs/2009.06368)", which will appear in the [EMNLP 2020 Blackbox NLP Workshop](https://blackboxnlp.github.io/) track proceedings.
 
 Note that all the experiment was carried using [**TextAttack**](https://github.com/QData/TextAttack), which is a Python framework for adversarial attacks, data augmentation, and model training in NLP. 
 
