@@ -1,22 +1,23 @@
 import os
 import run_experiment
 
-MODELS = ["lstm-yelp"]
+#MODELS = ["bert-base-uncased-mr", "bert-base-uncased-snli", "lstm-mr", "lstm-yelp"]
+MODELS = ["bert-base-uncased-yelp"]
 MODEL_RESULT = {
     "bert-base-uncased-mr": "bert-mr-test",
     "bert-base-uncased-snli": "bert-snli-test",
     "bert-base-uncased-yelp": "bert-yelp-test",
     "lstm-yelp": "lstm-yelp-test",
-    "lstm-mr": "lstm-mr-test",
-    "lstm-snli": "lstm-snli-test"
+    "lstm-mr": "lstm-mr-test"
 }
-TRANSFORMATIONS = ["word-swap-hownet"]
+TRANSFORMATIONS = ["word-swap-wordnet"]
 CONSTRAINT_LEVEL = ["strict"]
 SEARCH_METHODS = {
     #"beam-search": ["beam4", "beam8"], 
     #"greedy-word-wir": ["delete", "unk", "pwws", "random"],
+    "greedy-word-wir": ["gradient"],
     #"population": ["genetic", "pso"],
-    "population": ["pso"]
+    #"population": ["pso"]
 }
 
 print(f"Running experiment for model \"{MODELS}\"")
