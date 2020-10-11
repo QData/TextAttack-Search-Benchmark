@@ -1,8 +1,7 @@
 import os
 import run_experiment
 
-#MODELS = ["bert-base-uncased-mr", "bert-base-uncased-snli", "lstm-mr", "lstm-yelp"]
-MODELS = ["bert-base-uncased-yelp"]
+MODELS = ["bert-base-uncased-yelp", "bert-base-uncased-mr", "bert-base-uncased-snli", "lstm-mr", "lstm-yelp"]
 MODEL_RESULT = {
     "bert-base-uncased-mr": "bert-mr-test",
     "bert-base-uncased-snli": "bert-snli-test",
@@ -13,11 +12,9 @@ MODEL_RESULT = {
 TRANSFORMATIONS = ["word-swap-wordnet"]
 CONSTRAINT_LEVEL = ["strict"]
 SEARCH_METHODS = {
-    #"beam-search": ["beam4", "beam8"], 
-    #"greedy-word-wir": ["delete", "unk", "pwws", "random"],
-    "greedy-word-wir": ["gradient"],
-    #"population": ["genetic", "pso"],
-    #"population": ["pso"]
+    "beam-search": ["greedy", "beam4", "beam8"], 
+    "greedy-word-wir": ["delete", "unk", "pwws", "gradient", "random"],
+    "population": ["genetic", "pso"],
 }
 
 print(f"Running experiment for model \"{MODELS}\"")
@@ -39,7 +36,6 @@ for model in MODELS:
 
                     log_txt_path = f"{result_dir}/{result_file_name}.txt"
                     log_csv_path = f"{result_dir}/{result_file_name}.csv"
-                    end_chkpt_path = f"{chkpt_dir}/{result_file_name}.ta.chkpt"
                     chkpt_path = f"{exp_base_name}/{result_file_name}"
 
-                    run_experiment.run(model, recipe_path, log_txt_path, log_csv_path, end_chkpt_path, chkpt_path=chkpt_path)
+                    run_experiment.run(model, recipe_path, log_txt_path, log_csv_path, chkpt_path=chkpt_path)
